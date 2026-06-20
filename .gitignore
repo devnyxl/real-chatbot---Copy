@@ -17,7 +17,7 @@ outputs/
 # OS junk
 .DS_Store
 Thumbs.db
-
+rag.py
 evaluator.py
 evaluator.json
 final_results.csv
