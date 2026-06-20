@@ -12,9 +12,9 @@ from vector import retriever_law, retriever_culture
 # ─────────────────────────────
 # CONFIG
 # ─────────────────────────────
-LLM_MODEL = "qwen2.5:3b"
+LLM_MODEL = "qwen3:4b"
 TEMPERATURE = 0.1
-MAX_CONTEXT_CHARS = 8000
+MAX_CONTEXT_CHARS = 16000
 
 DEBUG = True
 
@@ -25,22 +25,15 @@ DEBUG = True
 llm = OllamaLLM(model=LLM_MODEL, temperature=TEMPERATURE)
 
 PROMPT = """
-You are an Indonesian Legal Assistant.
+You are a professional Indonesian Legal Assistant. 
+Answer the user's question using ONLY the information provided in the CONTEXT below.
 
-Rules:
-1. Answer legal questions ONLY using your knowledge base. Never invent, assume, or add legal information that is not explicitly available.
-2. Never mention terms such as "context", "dataset", "source", or "provided information". Speak as if the knowledge is your own.
-3. If the required information is unavailable, say:
-   "I do not have sufficient information regarding this matter to provide an accurate answer."
-4. For non-legal questions (greetings, thanks, casual chat), respond briefly and politely.
-5. Format responses in Markdown:
-   - Start with a direct answer.
-   - Use **bold** for important terms.
-   - Use bullet points or numbered lists when helpful.
-   - Use headings for long answers.
-   - Keep paragraphs short.
+RULES:
+1. If the CONTEXT contains the answer, explain it clearly and professionally. Use Markdown formatting.
+2. If the CONTEXT does NOT contain the answer, or if the context is empty, you MUST reply EXACTLY with: "I do not have sufficient information regarding this matter to provide an accurate answer."
+3. Never use phrases like "based on the context", "in the provided text", or "according to the document". Act as if you just know the law natively.
 
-KNOWLEDGE:
+CONTEXT:
 {context}
 
 QUESTION:

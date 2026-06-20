@@ -112,46 +112,38 @@ def get_canonical_id(d: Document) -> str:
 # ─────────────────────────────
 # DIRECT ARTICLE LOOKUP (EXACT MATCH BY NUMBER)
 # ─────────────────────────────
-# Matches things like: "article 5", "Article 274", "pasal 5", "Pasal 274"
-ARTICLE_NUMBER_PATTERN = re.compile(r"(?:article|pasal)\s+(\d+)", re.IGNORECASE)
+# Matches: "article 1, 2, 3", "pasal 1 and 2", etc.
+ARTICLE_NUMBER_PATTERN = re.compile(r"(?:article|pasal)s?\s+([\d\s,and&]+)", re.IGNORECASE)
 
 
-def extract_requested_article_number(query: str) -> Optional[int]:
-    """
-    Look for an explicit article/pasal number in the user's question.
-    Returns None if the question doesn't reference a specific article number
-    (e.g. "explain the fine of category II" has no article number -> None,
-    correctly falls through to semantic search instead of exact lookup).
-    """
+def extract_requested_article_numbers(query: str):
+    """Extracts a list of article numbers from the user's question."""
     match = ARTICLE_NUMBER_PATTERN.search(query)
     if not match:
-        return None
-    return int(match.group(1))
+        return []
+    # Find all digits in the matched sequence (e.g., "1, 2, 3" -> [1, 2, 3])
+    return [int(n) for n in re.findall(r"\d+", match.group(1))]
 
 
-def direct_article_lookup(vectorstore: Chroma, domain: str, article_number: int) -> List[Document]:
-    """
-    Fetch the chunk(s) for an exact article number straight from Chroma's
-    metadata, bypassing vector/BM25 similarity entirely. This guarantees a
-    100% hit when the user names a specific article number, instead of
-    relying on embeddings/BM25 to "guess" the right document — which is
-    unreliable for short numeric identifiers (see ms-marco/bge debug session).
-    """
+def direct_article_lookup(vectorstore, domain: str, article_numbers: list[int]):
+    if not article_numbers:
+        return []
+        
     try:
-        data = vectorstore.get(where={"article_number": article_number})
+        if len(article_numbers) == 1:
+            data = vectorstore.get(where={"article_number": article_numbers[0]})
+        else:
+            data = vectorstore.get(where={"article_number": {"$in": article_numbers}})
     except Exception:
         return []
-
     if not data or not data.get("documents"):
         return []
-
     results = []
     for doc_text, meta in zip(data["documents"], data["metadatas"]):
         meta = dict(meta or {})
         meta["domain"] = domain
         meta["retrieval_method"] = "direct_article_lookup"
         results.append(Document(page_content=doc_text, metadata=meta))
-
     return results
 
 
@@ -302,9 +294,9 @@ class DomainRetriever:
         # unreliability of vector/BM25 similarity for short numeric
         # identifiers entirely (e.g. "article 5" matching unrelated
         # docs that merely contain the digit "5" somewhere).
-        article_number = extract_requested_article_number(query)
-        if article_number is not None:
-            direct_hits = direct_article_lookup(self.vectorstore, self.domain, article_number)
+        article_numbers = extract_requested_article_numbers(query)
+        if article_numbers:  # if the list is not empty
+            direct_hits = direct_article_lookup(self.vectorstore, self.domain, article_numbers)
             if direct_hits:
                 return direct_hits
             
@@ -342,11 +334,11 @@ class HybridRetriever:
 
     def invoke(self, query: str) -> List[Document]:
         # Direct article lookup across all domains first (cheap + exact).
-        article_number = extract_requested_article_number(query)
-        if article_number is not None:
+        article_numbers = extract_requested_article_numbers(query)
+        if article_numbers:
             direct_hits: List[Document] = []
             for domain, vs in self.vectorstores.items():
-                direct_hits.extend(direct_article_lookup(vs, domain, article_number))
+                direct_hits.extend(direct_article_lookup(vs, domain, article_numbers))
             if direct_hits:
                 return direct_hits
 
