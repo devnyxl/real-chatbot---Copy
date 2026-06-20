@@ -13,7 +13,8 @@ node_modules/
 *.log
 temp/
 outputs/
-*.md
+product.md
+temp_critique.md
 # OS junk
 .DS_Store
 Thumbs.db
