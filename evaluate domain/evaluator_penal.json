@@ -1,5 +1,6 @@
 {
   "queries": [
+    "How is the term 'Person' defined in the Penal Code?",
     "What is the minimum age for a child to be held criminally liable?",
     "Who is considered a 'Child' under the Penal Code?",
     "What are the five main types of principal sentences a judge can impose?",
@@ -7,7 +8,6 @@
     "Why is capital punishment treated as a special sentence rather than a principal one?",
     "Until when can a criminal complaint be withdrawn by the victim?",
     "Who has the right to file a complaint if a victim is under 16 years old?",
-    "How is the term 'Person' defined in the Penal Code?",
     "What items are categorized as 'Goods' under the law?",
     "What is the maximum imprisonment for standard murder?",
     "How is the sentence affected if a person kills their own parent or spouse?",
@@ -27,6 +27,9 @@
     "What is the maximum sentence for facilitating sexual acts with a child?"
   ],
   "relevance": {
+    "How is the term 'Person' defined in the Penal Code?": [
+      "penal_Article_145"
+    ],
     "What is the minimum age for a child to be held criminally liable?": [
       "penal_Article_40"
     ],
@@ -46,9 +49,6 @@
     ],
     "Who has the right to file a complaint if a victim is under 16 years old?": [
       "penal_Article_25"
-    ],
-    "How is the term 'Person' defined in the Penal Code?": [
-      "penal_Article_145"
     ],
     "What items are categorized as 'Goods' under the law?": [
       "penal_Article_147"

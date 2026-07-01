@@ -19,19 +19,19 @@ def main():
     # Definisi 3 dataset
     jobs = [
         {
-            "name": "1. Immigration (Law)",
-            "domain": "law",
-            "dataset": os.path.join("evaluate domain", "evaluator_immigration")
-        },
-        {
-            "name": "2. Culture (Bali)",
-            "domain": "culture",
-            "dataset": os.path.join("evaluate domain", "evaluator_bali.json")
-        },
-        {
-            "name": "3. Penal (Law)",
+            "name": "1. Penal (Law)",
             "domain": "law",
             "dataset": os.path.join("evaluate domain", "evaluator_penal.json")
+        },
+        {
+            "name": "2. Immigration (Law)",
+            "domain": "law",
+            "dataset": os.path.join("evaluate domain", "evaluator_immigration.json")
+        },
+        {
+            "name": "3. Culture (Bali)",
+            "domain": "culture",
+            "dataset": os.path.join("evaluate domain", "evaluator_bali.json")
         }
     ]
 
