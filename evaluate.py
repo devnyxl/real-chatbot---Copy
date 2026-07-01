@@ -284,6 +284,14 @@ def evaluate(dataset: dict, domain: str, k_values: List[int], max_retrieve: int,
             agg[f"recall@{k}"].append(r)
             agg[f"ndcg@{k}"].append(n)
 
+        # ====== PRINT METRICS KE TERMINAL ======
+        print(f"\n   📈 METRICS:")
+        print(f"      MRR: {row['mrr']}")
+        for k in k_values:
+            print(f"      K={k} -> Precision: {row[f'precision@{k}']:<6} | Recall: {row[f'recall@{k}']:<6} | NDCG: {row[f'ndcg@{k}']:<6}")
+        print("-" * 60)
+        # =======================================
+
         per_query_rows.append(row)
 
     summary = {
