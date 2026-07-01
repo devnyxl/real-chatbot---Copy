@@ -1,0 +1,5094 @@
+query,relevant_ids,retrieved_ids,retrieved_texts,mrr,precision@1,recall@1,ndcg@1,precision@3,recall@3,ndcg@3,precision@5,recall@5,ndcg@5
+Why is capital punishment treated as a special sentence rather than a principal one?,penal_Article_67;penal_Article_98,penal_Article_67;penal_Article_130;penal_Article_125;penal_Article_128;penal_Article_65,"[ORIGINAL Article 67]
+Article 67
+Special sentence as referred to in Article 64 letter c is the capital punishment which is always threatened as an
+alternative sentence.
+
+[DEFINITION FROM Article 64]
+Article 64
+Criminal sentence consists of:
+a.
+
+principal sentence;
+
+b.
+
+additional sentence; and
+
+c.
+
+special sentence for certain Crimes stipulated under the Law.
+
+---
+
+[ORIGINAL Article 130]
+Article 130
+(1)
+
+If there is a concurrence as referred to in Article 127 and Article 129, the imposition of additional sentence
+shall be carried out under the following conditions:
+a.
+
+(2)
+
+the criminal sentence of revocation of the same rights shall be merged into one with the following
+provisions:
+1.
+
+shall be a minimum of 2 (two) years and a maximum of 5 (five) years longer than the principal
+sentence that are imposed; or
+
+2.
+
+if the principal sentence which is threatened is only a criminal fine, the term of imprisonment
+shall be a minimum of 2 (two) years and a maximum of 5 (five) years.
+
+b.
+
+the criminal sentence of revocation of different types of rights shall be imposed separately for each
+Crime without deduction; or
+
+c.
+
+for the criminal sentence of confiscation of certain Goods or substitute sentence shall be imposed
+separately for each Crime without deduction.
+
+For provisions regarding the length of substitute sentence for the criminal sentence of confiscation of
+certain Goods as referred to in paragraph (1) letter c, the provision on criminal sentence in lieu of criminal
+fines shall be imposed.
+
+[DEFINITION FROM Article 127]
+Article 127
+(1)
+
+If there is a concurrence of several Crimes which should be considered as independent Crimes and which
+are threatened with similar principal sentence, only 1 (one) sentence shall be imposed.
+
+
+
+
+(2)
+
+The maximum criminal sentence for concurrent Crimes as referred to in paragraph (1) is the amount of
+criminal sentence which is imposed on all of said Crimes, but it does not exceed the most severe
+sentence plus 1/3 (one third).
+
+[DEFINITION FROM Article 129]
+Article 129
+If the concurrent Crimes is sentenced with capital punishment or life imprisonment, the defendant may not be
+sentenced with any other sentence, except for additional sentence, namely:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods; and/or
+
+c.
+
+announcement of court decision.
+
+---
+
+[ORIGINAL Article 125]
+Article 125
+(1)
+
+An act which fulfills more than 1 (one) criminal provision which is threatened with the same criminal
+sentence will only be subject to 1 (one) criminal sentence, while if the threat of criminal sentence is
+different, it shall be subject to the most severe principal sentence.
+
+(2)
+
+An act which is regulated under the general criminal regulations and the special criminal regulations shall
+only be subject to special criminal regulations, unless the Law determines otherwise.
+
+---
+
+[ORIGINAL Article 128]
+Article 128
+(1)
+
+If there is a concurrence of several Crimes which should be considered as independent Crimes and which
+are threatened with different types of principal sentence, the sentence which are imposed shall all types of
+criminal sentence for each Crime, but it shall not exceed the maximum sentence which is the most severe
+plus 1 /3 (one third).
+
+(2)
+
+In the event that the provision as referred to in paragraph (1) is threatened with a criminal fine, the
+calculation of the criminal fine shall be based on the maximum length of imprisonment in lieu of criminal
+fines.
+
+(3)
+
+If the Crimes committed are threatened with a minimum sentence, then the minimum sentence for
+concurrence as referred to in paragraph (1) shall be the amount of special minimum sentence for each
+Crime, but shall not exceed the special minimum sentence which is the most severe plus 1/3 (one third).
+
+---
+
+[ORIGINAL Article 65]
+Article 65
+(1)
+
+(2)
+
+The principal sentence as referred to in Article 64 letter a consist of:
+a.
+
+imprisonment;
+
+b.
+
+custody;
+
+c.
+
+criminal supervision;
+
+d.
+
+criminal fines; and
+
+e.
+
+community services.
+
+The order of criminal sentence as referred to in paragraph (1) shall determine the severity or lightness of
+the criminal sentence.
+
+[DEFINITION FROM Article 64]
+Article 64
+Criminal sentence consists of:
+a.
+
+principal sentence;
+
+b.
+
+additional sentence; and
+
+c.
+
+special sentence for certain Crimes stipulated under the Law.",1.0,1.0,0.5,1.0,0.3333,0.5,0.6131,0.2,0.5,0.6131
+How is the term 'Person' defined in the Penal Code?,penal_Article_145,penal_Article_248;penal_Article_20;penal_Article_369;penal_Article_22;penal_Article_282,"[ORIGINAL Article 248]
+Article 248
+(1)
+
+Any Person who mobilize other persons as referred to in Article 20 letter d to commit Crimes but the said
+Crimes or the attempt which can be sentenced do not take place, shall be sentenced with imprisonment
+for a maximum of 6 (six) years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person as referred to in paragraph (1) shall not be subject to criminal sentence that is more severe
+than what can be imposed for an attempt to commit the said Crimes or if the said attempt cannot be
+sentenced, then they shall not be subject to a criminal sentence that is more severe than what is
+determined for the said Crimes.
+
+(3)
+
+The provisions as referred to in paragraph (1) and paragraph (2) shall not apply if the said Crimes or the
+attempt that could be sentenced do not take place caused by their own will.
+
+[DEFINITION FROM Article 20]
+Article 20
+Any Person shall be sentenced as a criminal offender if:
+a.
+
+he/she commits a Crime him/herself;
+
+b.
+
+commits a Crime by means of a tool or ordering other persons who cannot be accounted for;
+
+c.
+
+participates in committing a Crime; or
+
+d.
+
+mobilizes other persons to commit Crime by giving or promising something, abusing their power or dignity,
+committing Violence, using Threats of Violence, committing misdirection, or by providing opportunities,
+facilities, or information.
+
+---
+
+[ORIGINAL Article 20]
+Article 20
+Any Person shall be sentenced as a criminal offender if:
+a.
+
+he/she commits a Crime him/herself;
+
+b.
+
+commits a Crime by means of a tool or ordering other persons who cannot be accounted for;
+
+c.
+
+participates in committing a Crime; or
+
+d.
+
+mobilizes other persons to commit Crime by giving or promising something, abusing their power or dignity,
+committing Violence, using Threats of Violence, committing misdirection, or by providing opportunities,
+facilities, or information.
+
+---
+
+[ORIGINAL Article 369]
+Article 369
+Any Person who, in times of peace, uses one of the methods as referred to in Article 20 letter b to encourage
+riots or rebellions among the Indonesian National Armed Forces, or by using one of the methods as referred to in
+
+[DEFINITION FROM Article 20]
+Article 20
+Any Person shall be sentenced as a criminal offender if:
+a.
+
+he/she commits a Crime him/herself;
+
+b.
+
+commits a Crime by means of a tool or ordering other persons who cannot be accounted for;
+
+c.
+
+participates in committing a Crime; or
+
+d.
+
+mobilizes other persons to commit Crime by giving or promising something, abusing their power or dignity,
+committing Violence, using Threats of Violence, committing misdirection, or by providing opportunities,
+facilities, or information.
+
+---
+
+[ORIGINAL Article 22]
+Article 22
+The personal condition of offenders as referred to in Article 20 or the accomplice as referred to in Article 21 may
+abolish, reduce, or aggravate their crime.
+
+[DEFINITION FROM Article 20]
+Article 20
+Any Person shall be sentenced as a criminal offender if:
+a.
+
+he/she commits a Crime him/herself;
+
+b.
+
+commits a Crime by means of a tool or ordering other persons who cannot be accounted for;
+
+c.
+
+participates in committing a Crime; or
+
+d.
+
+mobilizes other persons to commit Crime by giving or promising something, abusing their power or dignity,
+committing Violence, using Threats of Violence, committing misdirection, or by providing opportunities,
+facilities, or information.
+
+[DEFINITION FROM Article 21]
+Article 21
+(1)
+
+Any Person shall be sentenced as an accomplice to a Crime if they intentionally:
+a.
+
+provides opportunities, facilities, or information to commit a Crime; or
+
+b.
+
+provide assistance at the time the Crime is committed.
+
+
+
+
+(2)
+
+The provision as referred to in paragraph (1) does not apply for assistance in a Crime which is only
+sentenced with a maximum criminal fine of category II.
+
+(3)
+
+The criminal sentence for assistance in a Crime shall be a maximum of 2/3 (two thirds) of the maximum
+threat of principal sentence for the relevant Crime.
+
+(4)
+
+Assistance in a Crime, which is threatened with capital punishment or life imprisonment, shall be
+sentenced with imprisonment for a maximum of 15 (fifteen) years.
+
+(5)
+
+Additional sentence for assistance in a Crime is the same as the additional sentence for the relevant
+Crime.
+
+---
+
+[ORIGINAL Article 282]
+Article 282
+(1)
+
+Shall be sentenced with imprisonment for a maximum of 1 (one) year or a maximum criminal fine of
+category III, Any Person who:
+a.
+
+hide the person who commits the Crime or the person who is being charged or sentenced; or
+
+b.
+
+provide assistance to the person who commits the Crime to escape from investigations,
+prosecutions, or implementation of criminal decisions by authorized Officials.
+
+(2)
+
+In the event that the Crime as referred to in paragraph (1) is a Crime that is threatened with imprisonment
+for 5 (five) years or longer, shall be sentenced with imprisonment for a maximum of 3 (three) years or a
+criminal fine of category IV.
+
+(3)
+
+The provision as referred to in paragraph (1) does not apply if such act is conducted with the intention to
+avoid prosecution against blood relatives or in-laws in a straight line of the second degree or in a lateral
+line of the third degree, against wife or husband, or against ex-wife or ex-husband.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+What is the minimum age for a child to be held criminally liable?,penal_Article_40,penal_Article_40;penal_Article_429;penal_Article_113;penal_Article_425;penal_Article_430,"[ORIGINAL Article 40]
+Article 40
+Criminal liability cannot be imposed on children who are not yet 12 (twelve) years old at the time of committing a
+crime.
+
+---
+
+[ORIGINAL Article 429]
+Article 429
+(1)
+
+Any Person who leaves a child who has not yet reached the age of 7 (seven) years with the intention to
+release the responsibility for the child, shall be sentenced with imprisonment for a maximum of 5 (five)
+years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person as referred to in paragraph (1) shall be sentenced with:
+
+(3)
+
+a.
+
+imprisonment for a maximum of 7 (seven) years, if said act resulted in Serious Injury; or
+
+b.
+
+imprisonment for a maximum of 9 (nine) years, if said act resulted in death.
+
+In the event that the Crime as referred to in paragraph (1) and paragraph (2) is committed by the Father or
+mother of the child as referred to in paragraph (1), the sentence may be increased by 1/3 (one-third).
+
+---
+
+[ORIGINAL Article 113]
+Article 113
+(1)
+
+Any Child may be sentenced with measures in the form of:
+a.
+
+returns to parents/godparents;
+
+b.
+
+handover to someone;
+
+c.
+
+treatment in a mental hospital;
+
+d.
+
+treatment in an institution;
+
+e.
+
+obligation to attend formal education and/or training organized by the government or a private
+entity;
+
+f.
+
+revocation of driver’s license; and/or
+
+g.
+
+remedy for the consequences of Crime.
+
+(2)
+
+The measures as referred to in paragraph (1) letter d, letter e, and letter f shall be imposed for a maximum
+of 1 (one) year.
+
+(3)
+
+Children under the age of 14 (fourteen) years old may not be sentenced with criminal sentence and may
+only be sentenced with measures.
+
+---
+
+[ORIGINAL Article 425]
+Article 425
+(1)
+
+Any Person who gives or transfers to another person a child who is under their legal control and is not yet
+12 (twelve) years old, even though it is known that the child in question will be used to commit acts of
+begging or to perform work which are dangerous or which may endanger their health, shall be sentenced
+with imprisonment for a maximum of 4 (four) years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person who accepts a child to be utilized as referred to in paragraph (1) shall be sentenced the same
+criminal sentence.
+
+---
+
+[ORIGINAL Article 430]
+Article 430
+A mother who disposes of or leaves her child shortly after being born for fear of the birth of the child being
+discovered by others, with the intention that the child is found by others or with the intention of relinquishing her
+responsibility for the child who is born, shall be sentenced with 1/2 (one half) of the criminal sentence as referred
+to in Article 429 paragraph (1) and paragraph (2).
+
+[DEFINITION FROM Article 429]
+Article 429
+(1)
+
+Any Person who leaves a child who has not yet reached the age of 7 (seven) years with the intention to
+release the responsibility for the child, shall be sentenced with imprisonment for a maximum of 5 (five)
+years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person as referred to in paragraph (1) shall be sentenced with:
+
+(3)
+
+a.
+
+imprisonment for a maximum of 7 (seven) years, if said act resulted in Serious Injury; or
+
+b.
+
+imprisonment for a maximum of 9 (nine) years, if said act resulted in death.
+
+In the event that the Crime as referred to in paragraph (1) and paragraph (2) is committed by the Father or
+mother of the child as referred to in paragraph (1), the sentence may be increased by 1/3 (one-third).",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+Who is considered a 'Child' under the Penal Code?,penal_Article_150,penal_Article_150;penal_Article_419;penal_Article_421;penal_Article_425;penal_Article_429,"[ORIGINAL Article 150]
+Article 150
+Child is a person who is not yet 18 (eighteen) years old.
+
+---
+
+[ORIGINAL Article 419]
+Article 419
+(1)
+
+Any Person who connects or facilitates another person to commit obscene acts or have sexual intercourse
+with a person who is known or reasonably suspected to be a Child, shall be sentenced with imprisonment
+for a maximum of 7 (seven) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against biological children, step children, adopted
+children, or children under their supervision who are entrusted to them to be nurtured, shall be sentenced
+with imprisonment for a maximum of 9 (nine) years.
+
+---
+
+[ORIGINAL Article 421]
+Article 421
+If the Crime as referred to in Article 419 or Article 420 is committed as a habit or to attract profit as a livelihood,
+the criminal sentence may be increased by 1/3 (one third).
+
+[DEFINITION FROM Article 419]
+Article 419
+(1)
+
+Any Person who connects or facilitates another person to commit obscene acts or have sexual intercourse
+with a person who is known or reasonably suspected to be a Child, shall be sentenced with imprisonment
+for a maximum of 7 (seven) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against biological children, step children, adopted
+children, or children under their supervision who are entrusted to them to be nurtured, shall be sentenced
+with imprisonment for a maximum of 9 (nine) years.
+
+[DEFINITION FROM Article 420]
+Article 420
+Any Person who connects or facilitates another person to commit obscene acts, shall be sentenced with
+
+
+
+
+imprisonment for a maximum of 2 (two) years.
+
+---
+
+[ORIGINAL Article 425]
+Article 425
+(1)
+
+Any Person who gives or transfers to another person a child who is under their legal control and is not yet
+12 (twelve) years old, even though it is known that the child in question will be used to commit acts of
+begging or to perform work which are dangerous or which may endanger their health, shall be sentenced
+with imprisonment for a maximum of 4 (four) years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person who accepts a child to be utilized as referred to in paragraph (1) shall be sentenced the same
+criminal sentence.
+
+---
+
+[ORIGINAL Article 429]
+Article 429
+(1)
+
+Any Person who leaves a child who has not yet reached the age of 7 (seven) years with the intention to
+release the responsibility for the child, shall be sentenced with imprisonment for a maximum of 5 (five)
+years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person as referred to in paragraph (1) shall be sentenced with:
+
+(3)
+
+a.
+
+imprisonment for a maximum of 7 (seven) years, if said act resulted in Serious Injury; or
+
+b.
+
+imprisonment for a maximum of 9 (nine) years, if said act resulted in death.
+
+In the event that the Crime as referred to in paragraph (1) and paragraph (2) is committed by the Father or
+mother of the child as referred to in paragraph (1), the sentence may be increased by 1/3 (one-third).",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+What are the five main types of principal sentences a judge can impose?,penal_Article_65,penal_Article_115;penal_Article_387;penal_Article_128;penal_Article_114;penal_Article_130,"[ORIGINAL Article 115]
+Article 115
+The principal sentence as referred to in Article 114 letter a consists of:
+a.
+
+warnings;
+
+b.
+
+conditional sentence:
+1.
+
+guidance outside an institution;
+
+2.
+
+community service; or
+
+3.
+
+criminal supervision.
+
+c.
+
+job training;
+
+d.
+
+guidance in an institution; and
+
+e.
+
+imprisonment.
+
+[DEFINITION FROM Article 114]
+Article 114
+Criminal sentences that may be imposed upon Children shall be in the form of:
+a.
+
+principal sentence; and
+
+
+
+
+b.
+
+additional sentence.
+
+---
+
+[ORIGINAL Article 387]
+Article 387
+
+
+
+
+(1)
+
+(2)
+
+Shall be sentenced with imprisonment for a maximum of 3 (three) years or a maximum criminal fine of
+category IV, Any Person who:
+a.
+
+remove the cancel mark on inscribed Goods, with the intention of using the said Goods as if they
+can still be used; or
+
+b.
+
+uses, sells, offers, transfers, or possess inventory for sale, a Goods which has the cancel mark
+removed as if said Goods can still be used.
+
+Any Person as referred to in paragraph (1) may be sentenced with additional sentence in the form of
+announcing the judge’s decision as referred to in Article 66 paragraph (1) letter c.
+
+[DEFINITION FROM Article 66]
+Article 66
+(1)
+
+The additional sentence as referred to in Article 64 letter b consist of:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods and/or invoices;
+
+c.
+
+announcement of the judge’s decision;
+
+d.
+
+payment of compensation;
+
+e.
+
+revocation of certain licenses; and
+
+f.
+
+fulfillment of local customary obligations.
+
+(2)
+
+The additional sentence as referred to in paragraph (1) may be imposed in the event that the imposition of
+the principal sentence alone is insufficient to achieve the purpose of sentencing.
+
+(3)
+
+The additional sentence as referred to in paragraph (1) may be imposed for 1 (one) type or more.
+
+(4)
+
+The additional sentence for attempt and assistance is the same as the additional sentence for the Crime.
+
+(5)
+
+The additional sentence for members of the Indonesian National Armed Forces who commit Crimes in a
+connectivity case shall be imposed in accordance with the provisions of laws and regulations for the
+Indonesian National Armed Forces.
+
+---
+
+[ORIGINAL Article 128]
+Article 128
+(1)
+
+If there is a concurrence of several Crimes which should be considered as independent Crimes and which
+are threatened with different types of principal sentence, the sentence which are imposed shall all types of
+criminal sentence for each Crime, but it shall not exceed the maximum sentence which is the most severe
+plus 1 /3 (one third).
+
+(2)
+
+In the event that the provision as referred to in paragraph (1) is threatened with a criminal fine, the
+calculation of the criminal fine shall be based on the maximum length of imprisonment in lieu of criminal
+fines.
+
+(3)
+
+If the Crimes committed are threatened with a minimum sentence, then the minimum sentence for
+concurrence as referred to in paragraph (1) shall be the amount of special minimum sentence for each
+Crime, but shall not exceed the special minimum sentence which is the most severe plus 1/3 (one third).
+
+---
+
+[ORIGINAL Article 114]
+Article 114
+Criminal sentences that may be imposed upon Children shall be in the form of:
+a.
+
+principal sentence; and
+
+
+
+
+b.
+
+additional sentence.
+
+---
+
+[ORIGINAL Article 130]
+Article 130
+(1)
+
+If there is a concurrence as referred to in Article 127 and Article 129, the imposition of additional sentence
+shall be carried out under the following conditions:
+a.
+
+(2)
+
+the criminal sentence of revocation of the same rights shall be merged into one with the following
+provisions:
+1.
+
+shall be a minimum of 2 (two) years and a maximum of 5 (five) years longer than the principal
+sentence that are imposed; or
+
+2.
+
+if the principal sentence which is threatened is only a criminal fine, the term of imprisonment
+shall be a minimum of 2 (two) years and a maximum of 5 (five) years.
+
+b.
+
+the criminal sentence of revocation of different types of rights shall be imposed separately for each
+Crime without deduction; or
+
+c.
+
+for the criminal sentence of confiscation of certain Goods or substitute sentence shall be imposed
+separately for each Crime without deduction.
+
+For provisions regarding the length of substitute sentence for the criminal sentence of confiscation of
+certain Goods as referred to in paragraph (1) letter c, the provision on criminal sentence in lieu of criminal
+fines shall be imposed.
+
+[DEFINITION FROM Article 127]
+Article 127
+(1)
+
+If there is a concurrence of several Crimes which should be considered as independent Crimes and which
+are threatened with similar principal sentence, only 1 (one) sentence shall be imposed.
+
+
+
+
+(2)
+
+The maximum criminal sentence for concurrent Crimes as referred to in paragraph (1) is the amount of
+criminal sentence which is imposed on all of said Crimes, but it does not exceed the most severe
+sentence plus 1/3 (one third).
+
+[DEFINITION FROM Article 129]
+Article 129
+If the concurrent Crimes is sentenced with capital punishment or life imprisonment, the defendant may not be
+sentenced with any other sentence, except for additional sentence, namely:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods; and/or
+
+c.
+
+announcement of court decision.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+How many years of probation are mandatory for capital punishment?,penal_Article_100,penal_Article_100;penal_Article_68;penal_Article_90;penal_Article_101;penal_Article_142,"[ORIGINAL Article 100]
+Article 100
+(1)
+
+Judges shall impose capital punishment with a probation of 10 (ten) years by taking into account:
+a.
+
+the defendant’s remorse and there are hope for improvement; or
+
+b.
+
+the role of the defendant in the Crime.
+
+(2)
+
+Capital punishment with a probation as referred to in paragraph (1) shall be included in the court decision.
+
+(3)
+
+The grace period of a probation of 10 (ten) years commences 1 (one) Day after the court decision
+obtained permanent legal force.
+
+(4)
+
+If the convict during the probation as referred to in paragraph (1) shows a commendable attitude and
+actions, the capital punishment may be changed to life imprisonment with a Decree of the President after
+obtaining a consideration from the Supreme Court.
+
+(5)
+
+Life imprisonment as referred to in paragraph (4) shall be calculated from the stipulation of Decree of the
+President.
+
+(6)
+
+If the convict during the probation as referred to in paragraph (1) does not show a commendable attitude
+and actions and there is no hope to be corrected, the capital punishment may be implemented on the
+order of the Attorney General.
+
+---
+
+[ORIGINAL Article 68]
+Article 68
+(1)
+
+Imprisonment is imposed for life or for a certain period.
+
+(2)
+
+Imprisonment for a certain period is imposed for a maximum of 15 (fifteen) consecutive years or a
+minimum of 1 (one) Day, unless a specific minimum is determined.
+
+(3)
+
+In the event that there is a choice between the capital punishment and life imprisonment or there is an
+aggravation for a Crime sentenced with imprisonment for 15 (fifteen) years, imprisonment for a certain
+period may be imposed for a period of 20 (twenty) consecutive years.
+
+(4)
+
+Imprisonment for a certain period may not be imposed for more than 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 90]
+Article 90
+(1)
+
+If the revocation of rights is imposed, the duration of the revocation must be determined if:
+a.
+
+being sentenced with capital punishment or life imprisonment, the revocation of rights shall be
+carried out forever;
+
+b.
+
+being sentenced with imprisonment, custody, or criminal supervision for a certain period, the
+revocation of rights shall be carried out for a minimum of 2 (two) years and a maximum of 5 (five)
+years longer from the principal sentence imposed; or
+
+c.
+
+being sentenced with a criminal fine, the revocation of rights shall be carried out for a minimum of 2
+(two) years and a maximum of 5 (five) years.
+
+(2)
+
+The provision as referred to in paragraph (1) letter b does not apply if what is revoked is the right to obtain
+probation.
+
+(3)
+
+The revocation of rights shall come into force on the date when the court decision has obtained permanent
+legal force.
+
+---
+
+[ORIGINAL Article 101]
+Article 101
+If the application for pardon of the death row convict is rejected and the capital punishment is not implemented
+for 10 (ten) years since the pardon is rejected not because the convict has run away, then the capital punishment
+may be changed into life imprisonment by a Decree of the President.
+
+---
+
+[ORIGINAL Article 142]
+Article 142
+(1)
+
+The authority to implement a criminal sentence shall lapse due to expiration after the enforcement of a
+grace period equal to the expiration date of the authority to prosecute as referred to in Article 136 plus 1/3
+(one-third).
+
+(2)
+
+The expiration date for the implementation of a criminal sentence must exceed the length of the criminal
+sentence imposed, except for life imprisonment.
+
+(3)
+
+The implementation of the capital punishment does not have an expiration date.
+
+(4)
+
+If the capital punishment is changed into life imprisonment as referred to in Article 101, the authority to
+implement the criminal sentence shall lapse due to expiration after the elapsed time equal to the expiration
+date of the authority to prosecute as referred to in Article 136 paragraph (1) letter e plus 1/3 (one third) of
+the expiration date.
+
+[DEFINITION FROM Article 101]
+Article 101
+If the application for pardon of the death row convict is rejected and the capital punishment is not implemented
+for 10 (ten) years since the pardon is rejected not because the convict has run away, then the capital punishment
+may be changed into life imprisonment by a Decree of the President.
+
+[DEFINITION FROM Article 136]
+Article 136
+(1)
+
+(2)
+
+The authority to prosecute shall be declared invalid due to expiration if:
+a.
+
+after exceeding a period of 3 (three) years for Crimes which are threatened with imprisonment for a
+maximum of 1 (one) year and/or only a maximum criminal fine of category III;
+
+b.
+
+after exceeding a period of 6 (six) years for Crimes which are threatened with imprisonment for
+more than 1 (one) year and for a maximum of 3 (three) years;
+
+c.
+
+after exceeding a period of 12 (twelve) years for Crimes which are threatened with imprisonment for
+more than 3 (three) years and for a maximum of 7 (seven) years;
+
+d.
+
+after exceeding a period of 18 (eighteen) years for Crimes which are threatened with imprisonment
+for more than 7 (seven) years and for a maximum of 15 (fifteen) years; dan
+
+e.
+
+after exceeding a period of 20 (twenty) years for Crimes which are threatened with imprisonment for
+a maximum of 20 (twenty) years, life imprisonment, or capital punishment.
+
+In the event that the Crime is committed by a Child, the grace period for the lapse of authority to prosecute
+due to expiration as referred to in paragraph (1) shall be reduced to 1/3 (one third).",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+Until when can a criminal complaint be withdrawn by the victim?,,penal_Article_411;penal_Article_412;penal_Article_30;penal_Article_27;penal_Article_25,"[ORIGINAL Article 411]
+Article 411
+(1)
+
+Any Person who has sexual intercourse with a person who is not their husband or wife, shall be sentenced
+due to adultery, with imprisonment for a maximum of 1 (one) year or a maximum criminal fine of category
+II.
+
+(2)
+
+The Crime as referred to in paragraph (1) shall not be prosecuted except due to complaints from:
+a.
+
+the husband or wife, for persons bound by marriage.
+
+b.
+
+Parents or their children, for persons who are not bound by marriage.
+
+
+
+
+(3)
+
+Toward Complaints as referred to in paragraph (2), the provisions as referred to in Article 25, Article 26,
+and Article 30 shall not apply.
+
+(4)
+
+Complaints may be withdrawn as long as the examination in court hearing has not yet started.
+
+[DEFINITION FROM Article 25]
+Article 25
+(1)
+
+In the event that the Victim of a Crime warranting complaint is not yet 16 (sixteen) years old, the parents
+or godparents shall be the one who has the right to file a complaint.
+
+(2)
+
+In the event that the parents or godparents as referred to in paragraph (1) does not exist or the parents or
+godparents themselves are to be reported, the complaint shall be made by blood relatives in a straight
+
+
+
+
+line.
+(3)
+
+In the event that there are no blood relatives in a straight line as referred to in paragraph (2), the complaint
+shall be made by blood relatives in a lateral line up to the third degree.
+
+(4)
+
+In the event that the Victim of the Crime as referred to in paragraph (1) does not have a parent, godparent,
+or blood relative in a straight line vertically or laterally up to the third degree, the complaint shall be made
+by himself or herself and/or the caseworker.
+
+[DEFINITION FROM Article 26]
+Article 26
+(1)
+
+In the event that the victim of a crime warranting complaint is under guardianship, the one who has the
+right to file the complaint is the guardian, except for the victim of a crime warranting complaint who is
+under guardianship due to extravagance.
+
+(2)
+
+In the event that the guardian as referred to in paragraph (1) does not exist or the guardian itself are to be
+reported, the complaint shall be made by the husband or wife of the Victim or blood relatives in a straight
+line.
+
+(3)
+
+In the event that the husband or wife of the Victim or blood relatives in a straight line as referred to in
+paragraph (2) does not exist, the complaint shall be made by blood relatives in a lateral line up to the third
+degree.
+
+[DEFINITION FROM Article 30]
+Article 30
+
+
+
+
+(1)
+
+Complaints may be withdrawn by the complainants within 3 (three) months from the date the complaint is
+filed.
+
+(2)
+
+Complaints which are withdrawn cannot be filed again.
+
+---
+
+[ORIGINAL Article 412]
+Article 412
+(1)
+
+Any Person who lives together as husband and wife outside of marriage shall be sentenced with
+imprisonment for a maximum of 6 (six) Months or a maximum criminal fine of category II.
+
+(2)
+
+The Crime as referred to in paragraph (1) shall not be prosecuted except due to complaints from:
+a.
+
+the husband or wife, for persons bound by marriage; or
+
+b.
+
+Parents or their children, for persons who are not bound by marriage.
+
+(3)
+
+Toward complaint as referred to in paragraph (2), the provisions of Article 25, Article 26, and Article 30
+shall not apply.
+
+(4)
+
+Complaints may be withdrawn as long as the examination in court hearing has not yet started.
+
+[DEFINITION FROM Article 25]
+Article 25
+(1)
+
+In the event that the Victim of a Crime warranting complaint is not yet 16 (sixteen) years old, the parents
+or godparents shall be the one who has the right to file a complaint.
+
+(2)
+
+In the event that the parents or godparents as referred to in paragraph (1) does not exist or the parents or
+godparents themselves are to be reported, the complaint shall be made by blood relatives in a straight
+
+
+
+
+line.
+(3)
+
+In the event that there are no blood relatives in a straight line as referred to in paragraph (2), the complaint
+shall be made by blood relatives in a lateral line up to the third degree.
+
+(4)
+
+In the event that the Victim of the Crime as referred to in paragraph (1) does not have a parent, godparent,
+or blood relative in a straight line vertically or laterally up to the third degree, the complaint shall be made
+by himself or herself and/or the caseworker.
+
+[DEFINITION FROM Article 26]
+Article 26
+(1)
+
+In the event that the victim of a crime warranting complaint is under guardianship, the one who has the
+right to file the complaint is the guardian, except for the victim of a crime warranting complaint who is
+under guardianship due to extravagance.
+
+(2)
+
+In the event that the guardian as referred to in paragraph (1) does not exist or the guardian itself are to be
+reported, the complaint shall be made by the husband or wife of the Victim or blood relatives in a straight
+line.
+
+(3)
+
+In the event that the husband or wife of the Victim or blood relatives in a straight line as referred to in
+paragraph (2) does not exist, the complaint shall be made by blood relatives in a lateral line up to the third
+degree.
+
+[DEFINITION FROM Article 30]
+Article 30
+
+
+
+
+(1)
+
+Complaints may be withdrawn by the complainants within 3 (three) months from the date the complaint is
+filed.
+
+(2)
+
+Complaints which are withdrawn cannot be filed again.
+
+---
+
+[ORIGINAL Article 30]
+Article 30
+
+
+
+
+(1)
+
+Complaints may be withdrawn by the complainants within 3 (three) months from the date the complaint is
+filed.
+
+(2)
+
+Complaints which are withdrawn cannot be filed again.
+
+---
+
+[ORIGINAL Article 27]
+Article 27
+In the event that the Victim of the Crime warranting complaint passed away, the complaint may be made by the
+parents, children, husband, or wife of the Victim, unless the Victim previously expressly did not want any
+prosecution.
+
+---
+
+[ORIGINAL Article 25]
+Article 25
+(1)
+
+In the event that the Victim of a Crime warranting complaint is not yet 16 (sixteen) years old, the parents
+or godparents shall be the one who has the right to file a complaint.
+
+(2)
+
+In the event that the parents or godparents as referred to in paragraph (1) does not exist or the parents or
+godparents themselves are to be reported, the complaint shall be made by blood relatives in a straight
+
+
+
+
+line.
+(3)
+
+In the event that there are no blood relatives in a straight line as referred to in paragraph (2), the complaint
+shall be made by blood relatives in a lateral line up to the third degree.
+
+(4)
+
+In the event that the Victim of the Crime as referred to in paragraph (1) does not have a parent, godparent,
+or blood relative in a straight line vertically or laterally up to the third degree, the complaint shall be made
+by himself or herself and/or the caseworker.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Who has the right to file a complaint if a victim is under 16 years old?,penal_Article_25,penal_Article_25;penal_Article_411;penal_Article_412;penal_Article_26;penal_Article_27,"[ORIGINAL Article 25]
+Article 25
+(1)
+
+In the event that the Victim of a Crime warranting complaint is not yet 16 (sixteen) years old, the parents
+or godparents shall be the one who has the right to file a complaint.
+
+(2)
+
+In the event that the parents or godparents as referred to in paragraph (1) does not exist or the parents or
+godparents themselves are to be reported, the complaint shall be made by blood relatives in a straight
+
+
+
+
+line.
+(3)
+
+In the event that there are no blood relatives in a straight line as referred to in paragraph (2), the complaint
+shall be made by blood relatives in a lateral line up to the third degree.
+
+(4)
+
+In the event that the Victim of the Crime as referred to in paragraph (1) does not have a parent, godparent,
+or blood relative in a straight line vertically or laterally up to the third degree, the complaint shall be made
+by himself or herself and/or the caseworker.
+
+---
+
+[ORIGINAL Article 411]
+Article 411
+(1)
+
+Any Person who has sexual intercourse with a person who is not their husband or wife, shall be sentenced
+due to adultery, with imprisonment for a maximum of 1 (one) year or a maximum criminal fine of category
+II.
+
+(2)
+
+The Crime as referred to in paragraph (1) shall not be prosecuted except due to complaints from:
+a.
+
+the husband or wife, for persons bound by marriage.
+
+b.
+
+Parents or their children, for persons who are not bound by marriage.
+
+
+
+
+(3)
+
+Toward Complaints as referred to in paragraph (2), the provisions as referred to in Article 25, Article 26,
+and Article 30 shall not apply.
+
+(4)
+
+Complaints may be withdrawn as long as the examination in court hearing has not yet started.
+
+[DEFINITION FROM Article 25]
+Article 25
+(1)
+
+In the event that the Victim of a Crime warranting complaint is not yet 16 (sixteen) years old, the parents
+or godparents shall be the one who has the right to file a complaint.
+
+(2)
+
+In the event that the parents or godparents as referred to in paragraph (1) does not exist or the parents or
+godparents themselves are to be reported, the complaint shall be made by blood relatives in a straight
+
+
+
+
+line.
+(3)
+
+In the event that there are no blood relatives in a straight line as referred to in paragraph (2), the complaint
+shall be made by blood relatives in a lateral line up to the third degree.
+
+(4)
+
+In the event that the Victim of the Crime as referred to in paragraph (1) does not have a parent, godparent,
+or blood relative in a straight line vertically or laterally up to the third degree, the complaint shall be made
+by himself or herself and/or the caseworker.
+
+[DEFINITION FROM Article 26]
+Article 26
+(1)
+
+In the event that the victim of a crime warranting complaint is under guardianship, the one who has the
+right to file the complaint is the guardian, except for the victim of a crime warranting complaint who is
+under guardianship due to extravagance.
+
+(2)
+
+In the event that the guardian as referred to in paragraph (1) does not exist or the guardian itself are to be
+reported, the complaint shall be made by the husband or wife of the Victim or blood relatives in a straight
+line.
+
+(3)
+
+In the event that the husband or wife of the Victim or blood relatives in a straight line as referred to in
+paragraph (2) does not exist, the complaint shall be made by blood relatives in a lateral line up to the third
+degree.
+
+[DEFINITION FROM Article 30]
+Article 30
+
+
+
+
+(1)
+
+Complaints may be withdrawn by the complainants within 3 (three) months from the date the complaint is
+filed.
+
+(2)
+
+Complaints which are withdrawn cannot be filed again.
+
+---
+
+[ORIGINAL Article 412]
+Article 412
+(1)
+
+Any Person who lives together as husband and wife outside of marriage shall be sentenced with
+imprisonment for a maximum of 6 (six) Months or a maximum criminal fine of category II.
+
+(2)
+
+The Crime as referred to in paragraph (1) shall not be prosecuted except due to complaints from:
+a.
+
+the husband or wife, for persons bound by marriage; or
+
+b.
+
+Parents or their children, for persons who are not bound by marriage.
+
+(3)
+
+Toward complaint as referred to in paragraph (2), the provisions of Article 25, Article 26, and Article 30
+shall not apply.
+
+(4)
+
+Complaints may be withdrawn as long as the examination in court hearing has not yet started.
+
+[DEFINITION FROM Article 25]
+Article 25
+(1)
+
+In the event that the Victim of a Crime warranting complaint is not yet 16 (sixteen) years old, the parents
+or godparents shall be the one who has the right to file a complaint.
+
+(2)
+
+In the event that the parents or godparents as referred to in paragraph (1) does not exist or the parents or
+godparents themselves are to be reported, the complaint shall be made by blood relatives in a straight
+
+
+
+
+line.
+(3)
+
+In the event that there are no blood relatives in a straight line as referred to in paragraph (2), the complaint
+shall be made by blood relatives in a lateral line up to the third degree.
+
+(4)
+
+In the event that the Victim of the Crime as referred to in paragraph (1) does not have a parent, godparent,
+or blood relative in a straight line vertically or laterally up to the third degree, the complaint shall be made
+by himself or herself and/or the caseworker.
+
+[DEFINITION FROM Article 26]
+Article 26
+(1)
+
+In the event that the victim of a crime warranting complaint is under guardianship, the one who has the
+right to file the complaint is the guardian, except for the victim of a crime warranting complaint who is
+under guardianship due to extravagance.
+
+(2)
+
+In the event that the guardian as referred to in paragraph (1) does not exist or the guardian itself are to be
+reported, the complaint shall be made by the husband or wife of the Victim or blood relatives in a straight
+line.
+
+(3)
+
+In the event that the husband or wife of the Victim or blood relatives in a straight line as referred to in
+paragraph (2) does not exist, the complaint shall be made by blood relatives in a lateral line up to the third
+degree.
+
+[DEFINITION FROM Article 30]
+Article 30
+
+
+
+
+(1)
+
+Complaints may be withdrawn by the complainants within 3 (three) months from the date the complaint is
+filed.
+
+(2)
+
+Complaints which are withdrawn cannot be filed again.
+
+---
+
+[ORIGINAL Article 26]
+Article 26
+(1)
+
+In the event that the victim of a crime warranting complaint is under guardianship, the one who has the
+right to file the complaint is the guardian, except for the victim of a crime warranting complaint who is
+under guardianship due to extravagance.
+
+(2)
+
+In the event that the guardian as referred to in paragraph (1) does not exist or the guardian itself are to be
+reported, the complaint shall be made by the husband or wife of the Victim or blood relatives in a straight
+line.
+
+(3)
+
+In the event that the husband or wife of the Victim or blood relatives in a straight line as referred to in
+paragraph (2) does not exist, the complaint shall be made by blood relatives in a lateral line up to the third
+degree.
+
+---
+
+[ORIGINAL Article 27]
+Article 27
+In the event that the Victim of the Crime warranting complaint passed away, the complaint may be made by the
+parents, children, husband, or wife of the Victim, unless the Victim previously expressly did not want any
+prosecution.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+What items are categorized as 'Goods' under the law?,penal_Article_147,penal_Article_147;penal_Article_614;penal_Article_503;penal_Article_487;penal_Article_92,"[ORIGINAL Article 147]
+Article 147
+Goods are tangible or intangible objects, movable or immovable objects including water and demand deposits,
+electricity, gas, data, and Computer programs.
+
+---
+
+[ORIGINAL Article 614]
+Article 614
+At the time this Law comes into force:
+a.
+
+the terms felony (kejahatan) and misdemeanor (pelanggaran) used in the Laws other than this Law and
+Regulations of the Region shall be replaced with Crime (Tindak Pidana);
+
+b.
+
+the terms legal entities that take form of limited liability companies, foundations, associations,
+cooperatives, state-owned enterprises, regionally-owned enterprises, village-owned enterprises, or the
+equivalent, and unincorporated associations or business entities in the form of firma partnerships, limited
+partnerships or the equivalent that are regulated in the laws and regulations other than this Law shall be
+equated with Corporation as stipulated in this Law;
+
+c.
+
+the terms tangible or intangible objects, movable or immovable objects including water and demand
+deposits, electricity, gas, data, and Computer programs that are regulated in the Laws other than this Law
+shall be equated with Goods as stipulated in this Law;
+
+d.
+
+the terms civil servants, state civil apparatuses, members of the Indonesian National Police, and members
+
+
+
+
+of Indonesian National Armed Forces, state officials, public officials, regional officials, persons who receive
+salaries or wages from state or regional finance, persons who receive salaries or wages from
+Corporations which capital is entirely or largely owned by the state or region, or other officials regulated
+under the laws and regulations other than this Law and fulfilled the provisions as referred to in Article 154
+shall be Officials as stipulated in this Law.
+
+[DEFINITION FROM Article 154]
+Article 154
+Officials (Pejabat) are any Indonesian citizens who fulfilled the stipulated requirements, appointed by an
+authorized official and entrusted with state duties, or entrusted with other duties by the state, and paid based on
+the provisions of laws and regulations, namely:
+a.
+
+state civil apparatuses, members of the Indonesian National Police, and members of Indonesian National
+Armed Forces;
+
+b.
+
+state officials;
+
+c.
+
+public officials;
+
+d.
+
+regional officials;
+
+e.
+
+persons who receive salaries or wages from state or regional finance;
+
+f.
+
+persons who receive salaries or wages from Corporations which capital is entirely or largely owned by the
+state or region; or
+
+g.
+
+other officials stipulated based on the laws and regulations.
+
+---
+
+[ORIGINAL Article 503]
+Article 503
+(1)
+
+Any Person who sells, offers, or delivers Goods in the form of food, beverages or drugs, which they know
+to be counterfeit and conceal said counterfeit, shall be sentenced with imprisonment for a maximum of 5
+(five) years or a maximum criminal fine of category V.
+
+
+
+
+(2)
+
+If the Crime as referred to in paragraph (1) results in Serious Injury or disease, shall be sentenced with
+imprisonment for a maximum of 7 (seven) years.
+
+(3)
+
+If the Crime as referred to in paragraph (1) results in the death of a person, shall be sentenced with
+imprisonment for a maximum of 9 (nine) years.
+
+---
+
+[ORIGINAL Article 487]
+Article 487
+If what is embezzled is not Livestock or Goods which are not a source of livelihood or living, the value of which is
+no more than Rp.1,000,000.00 (one million rupiah), Any Person as referred to in Article 486, shall be sentenced
+due to minor embezzlement, with a maximum criminal fine of category II.
+
+[DEFINITION FROM Article 486]
+Article 486
+
+
+
+
+Any Person who unlawfully owns Goods which partially or wholly owned by another person, which is in his/her
+control not due to a Crime, shall be sentenced due to embezzlement, with imprisonment for a maximum of 4
+(four) years or a maximum criminal fine of category IV.
+
+---
+
+[ORIGINAL Article 92]
+Article 92
+(1)
+
+Additional sentence in the form of confiscation of certain Goods as referred to in Article 91 may be
+
+
+
+
+imposed upon Goods which are not confiscated by determining that said Goods must be handed over or
+replaced with an amount of money according to the judge’s estimation in accordance with the market
+price.
+(2)
+
+In the event that the Goods that are not confiscated as referred to in paragraph (1) cannot be handed
+over, said Goods are replaced with an amount of money according to the judge’s estimation in accordance
+with the market price.
+
+(3)
+
+If the convict is unable to pay all or part of the market price as referred to in paragraph (2), the provision
+on criminal sentence in lieu of criminal fines shall be imposed.
+
+[DEFINITION FROM Article 91]
+Article 91
+The additional sentence in the form of confiscation of certain Goods and/or invoice as referred to in Article 66
+paragraph (1) letter b which may be confiscated includes certain Goods and/or invoice:
+a.
+
+which are used to realize or prepare Crimes;
+
+b.
+
+which are specifically made or intended to realize Crimes;
+
+c.
+
+which relate to the realization of Crimes;
+
+d.
+
+property of the convict or other persons obtained from Crimes;
+
+e.
+
+from economic benefits which are obtained, either directly or indirectly, from Crimes; and/or
+
+f.
+
+which are used to obstruct investigation, prosecution and examination in court hearing.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+What is the maximum imprisonment for standard murder?,penal_Article_458,penal_Article_458;penal_Article_459;penal_Article_460;penal_Article_599;penal_Article_469,"[ORIGINAL Article 458]
+Article 458
+(1)
+
+Any Person who robs another person's life shall be sentenced due to murder, with imprisonment for a
+maximum of 15 (fifteen) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against their mother, father, wife, husband or
+child, the criminal sentence may be increased by 1/3 (one third).
+
+(3)
+
+Murder followed by, accompanied by, or preceded by a Crime committed with the intention of preparing or
+facilitating its implementation, or to release themselves or other participants from criminal sentence in the
+event of being caught red-handed, or to ensure possession of the Goods they obtained unlawfully, shall be
+sentenced with life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 459]
+Article 459
+
+
+
+
+Any Person who with prior planning takes the life of another person, shall be sentenced due to premeditated
+murder, with a capital punishment or life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 460]
+Article 460
+(1)
+
+A mother who takes the life of her child at the time of or shortly after birth, for fear of the birth of the child is
+known to others, shall be sentenced due to the murder of her own child, with imprisonment for a maximum
+of 7 (seven) years.
+
+(2)
+
+If the act as referred to in paragraph (1) is carried out with a plan in advance, shall be sentenced with
+imprisonment for a maximum of 9 (nine) years.
+
+(3)
+
+Other Persons who participate in committing the Crime as referred to in:
+a.
+
+paragraph (1) shall be sentenced with the same criminal sentence as Article 458 paragraph (1); or
+
+b.
+
+paragraph (2) shall be sentenced with the same criminal sentence as Article 459.
+
+[DEFINITION FROM Article 458]
+Article 458
+(1)
+
+Any Person who robs another person's life shall be sentenced due to murder, with imprisonment for a
+maximum of 15 (fifteen) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against their mother, father, wife, husband or
+child, the criminal sentence may be increased by 1/3 (one third).
+
+(3)
+
+Murder followed by, accompanied by, or preceded by a Crime committed with the intention of preparing or
+facilitating its implementation, or to release themselves or other participants from criminal sentence in the
+event of being caught red-handed, or to ensure possession of the Goods they obtained unlawfully, shall be
+sentenced with life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+[DEFINITION FROM Article 459]
+Article 459
+
+
+
+
+Any Person who with prior planning takes the life of another person, shall be sentenced due to premeditated
+murder, with a capital punishment or life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 599]
+Article 599
+Shall be sentenced due to Crime against humanity Any Person who commits an act as part of a widespread or
+systematic attack that is known to that person that the attack is directed against civilian population, in the form
+of:
+a.
+
+murder, annihilation, forcible expulsion or transfer of population, deprivation of freedom or other
+deprivation of physical freedom that violates the basic rules of international law, or the crime of apartheid,
+with capital punishment, life imprisonment, or imprisonment for a minimum of 5 (five) years and a
+maximum of 20 (twenty) years;
+
+
+
+
+b.
+
+slavery, torture, or other inhumane acts of the same nature aimed at causing severe suffering or serious
+injury to the body or physical and mental health, with criminal sentence for a minimum of 5 (five) years and
+a maximum of 15 (fifteen) years;
+
+c.
+
+persecution of groups or associations based on politics, race, nationality, ethnicity, culture, religion, belief,
+sex, or persecution for other discriminatory reasons that have been universally acknowledged as
+prohibited under international law, with imprisonment for a minimum of 5 (five) years and a maximum of 15
+(fifteen) years; or
+
+d.
+
+rape, sexual slavery, enforced prostitution, enforced pregnancy, enforced sterilization or other forms of
+sexual Violence of the same level, or enforced disappearance, shall be sentenced with imprisonment for a
+minimum of 5 (five) years and a maximum of 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 469]
+Article 469
+(1)
+
+Any Person who commits severe persecution with prior planning shall be sentenced with imprisonment for
+a maximum of 12 (twelve) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) results in the death of a person, shall be sentenced with
+imprisonment for a maximum of 15 (fifteen) years.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+How is the sentence affected if a person kills their own parent or spouse?,penal_Article_458,penal_Article_460;penal_Article_458;penal_Article_459;penal_Article_475;penal_Article_442,"[ORIGINAL Article 460]
+Article 460
+(1)
+
+A mother who takes the life of her child at the time of or shortly after birth, for fear of the birth of the child is
+known to others, shall be sentenced due to the murder of her own child, with imprisonment for a maximum
+of 7 (seven) years.
+
+(2)
+
+If the act as referred to in paragraph (1) is carried out with a plan in advance, shall be sentenced with
+imprisonment for a maximum of 9 (nine) years.
+
+(3)
+
+Other Persons who participate in committing the Crime as referred to in:
+a.
+
+paragraph (1) shall be sentenced with the same criminal sentence as Article 458 paragraph (1); or
+
+b.
+
+paragraph (2) shall be sentenced with the same criminal sentence as Article 459.
+
+[DEFINITION FROM Article 458]
+Article 458
+(1)
+
+Any Person who robs another person's life shall be sentenced due to murder, with imprisonment for a
+maximum of 15 (fifteen) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against their mother, father, wife, husband or
+child, the criminal sentence may be increased by 1/3 (one third).
+
+(3)
+
+Murder followed by, accompanied by, or preceded by a Crime committed with the intention of preparing or
+facilitating its implementation, or to release themselves or other participants from criminal sentence in the
+event of being caught red-handed, or to ensure possession of the Goods they obtained unlawfully, shall be
+sentenced with life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+[DEFINITION FROM Article 459]
+Article 459
+
+
+
+
+Any Person who with prior planning takes the life of another person, shall be sentenced due to premeditated
+murder, with a capital punishment or life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 458]
+Article 458
+(1)
+
+Any Person who robs another person's life shall be sentenced due to murder, with imprisonment for a
+maximum of 15 (fifteen) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against their mother, father, wife, husband or
+child, the criminal sentence may be increased by 1/3 (one third).
+
+(3)
+
+Murder followed by, accompanied by, or preceded by a Crime committed with the intention of preparing or
+facilitating its implementation, or to release themselves or other participants from criminal sentence in the
+event of being caught red-handed, or to ensure possession of the Goods they obtained unlawfully, shall be
+sentenced with life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 459]
+Article 459
+
+
+
+
+Any Person who with prior planning takes the life of another person, shall be sentenced due to premeditated
+murder, with a capital punishment or life imprisonment or imprisonment for a maximum of 20 (twenty) years.
+
+---
+
+[ORIGINAL Article 475]
+Article 475
+(1)
+
+If the Crime as referred to in Article 474 is committed in carrying out their position, livelihood or profession,
+the criminal sentence may be increased by 1/3 (one third).
+
+(2)
+
+Any Person as referred to in paragraph (1) may also be sentenced with additional sentence in the form of
+the announcement of judge’s decision as referred to in Article 66 paragraph (1) letter c and revocation of
+rights as referred to in Article 86 letter f.
+
+[DEFINITION FROM Article 66]
+Article 66
+(1)
+
+The additional sentence as referred to in Article 64 letter b consist of:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods and/or invoices;
+
+c.
+
+announcement of the judge’s decision;
+
+d.
+
+payment of compensation;
+
+e.
+
+revocation of certain licenses; and
+
+f.
+
+fulfillment of local customary obligations.
+
+(2)
+
+The additional sentence as referred to in paragraph (1) may be imposed in the event that the imposition of
+the principal sentence alone is insufficient to achieve the purpose of sentencing.
+
+(3)
+
+The additional sentence as referred to in paragraph (1) may be imposed for 1 (one) type or more.
+
+(4)
+
+The additional sentence for attempt and assistance is the same as the additional sentence for the Crime.
+
+(5)
+
+The additional sentence for members of the Indonesian National Armed Forces who commit Crimes in a
+connectivity case shall be imposed in accordance with the provisions of laws and regulations for the
+Indonesian National Armed Forces.
+
+[DEFINITION FROM Article 86]
+Article 86
+Additional sentence in the form of revocation of certain rights as referred to in Article 66 paragraph (1) letter a
+may be in the form of:
+a.
+
+the right to hold public position in general or certain positions;
+
+b.
+
+the right to be a member of the Indonesian National Armed Forces and the Indonesian National Police;
+
+c.
+
+the right to vote and to be elected in elections which are held in accordance with the provisions of laws
+and regulations;
+
+d.
+
+the right to become a godparent, supervisory godparent, guardian or supervisory guardian of a person
+who is not their own Child;
+
+e.
+
+the right to exercise the Power of Father, to exercise godparenting or to exercise guardianship over their
+own Child;
+
+f.
+
+the right to practice certain professions; and/or
+
+g.
+
+the right to obtain parole.
+
+[DEFINITION FROM Article 474]
+Article 474
+(1)
+
+Any Person who due to their negligence injures another person resulting in illness or hindrance in carrying
+out their position, livelihood, or profession for a certain time, shall be sentenced with imprisonment for a
+maximum of 1 (one) year or a maximum criminal fine of category II.
+
+(2)
+
+Any Person who due to their negligence causes another person to be seriously injured, shall be sentenced
+with imprisonment for a maximum of 3 (three) years or a maximum criminal fine of category III.
+
+(3)
+
+Any Person who due to their negligence results in the death of another person shall be sentenced with
+imprisonment for a maximum of 5 (five) years or a maximum criminal fine of category V.
+
+---
+
+[ORIGINAL Article 442]
+Article 442
+Any Person as referred to in Article 434 and Article 436 to Article 439 may be sentenced with additional sentence
+in the form of revocation of rights as referred to in Article 86 letter a, letter b, letter c, and/or letter d.
+
+[DEFINITION FROM Article 86]
+Article 86
+Additional sentence in the form of revocation of certain rights as referred to in Article 66 paragraph (1) letter a
+may be in the form of:
+a.
+
+the right to hold public position in general or certain positions;
+
+b.
+
+the right to be a member of the Indonesian National Armed Forces and the Indonesian National Police;
+
+c.
+
+the right to vote and to be elected in elections which are held in accordance with the provisions of laws
+and regulations;
+
+d.
+
+the right to become a godparent, supervisory godparent, guardian or supervisory guardian of a person
+who is not their own Child;
+
+e.
+
+the right to exercise the Power of Father, to exercise godparenting or to exercise guardianship over their
+own Child;
+
+f.
+
+the right to practice certain professions; and/or
+
+g.
+
+the right to obtain parole.
+
+[DEFINITION FROM Article 434]
+Article 434
+(1)
+
+If Any Person as referred to in Article 433 is given the opportunity to prove the validity of the alleged matter
+but is unable to prove it, and said allegation is contrary to what they know, shall be sentenced due to
+calumny, with imprisonment for a maximum of 3 (three) years or a maximum criminal fine of category IV.
+
+(2)
+
+Proving the validity of allegations as referred to in paragraph (1) may only be conducted in the event that:
+
+(3)
+
+a.
+
+the judge deems it necessary to examine the validity of the allegation to consider the defendant's
+statement that the defendant committed said action in the public interest or out of necessity of selfdefense; or
+
+b.
+
+Officials are accused of doing something in carrying out their official duties.
+
+Proving as referred to in paragraph (2) cannot be carried out if the alleged matter may only be prosecuted
+upon a complaint and no complaint has been filed.
+
+[DEFINITION FROM Article 436]
+Article 436
+Defamation that are not slander or libel which are committed against someone either in public verbally or in
+writing, as well as in front of the persons who are insulted verbally or by action or in writing which are sent to or
+received by them, shall be sentenced due to minor defamation with imprisonment for a maximum of 6 (six)
+Months or a maximum criminal fine of category II.
+
+[DEFINITION FROM Article 439]
+Article 439
+(1)
+
+Any Person who slanders or libels a dead person shall be sentenced with a maximum imprisonment of 6
+(six) months or a maximum criminal fine of category II.
+
+(2)
+
+If any Person as referred to in paragraph (1) commits said Crime in carrying out their profession and at
+that time 2 (two) years have not elapsed since the court decision that has obtained permanent legal force
+due to committing the same Crime, may be subject to additional sentence in the form of revocation of
+rights as referred to in Article 86 letter f.
+
+(3)
+
+The Crime as referred to in paragraph (1) shall not be prosecuted if there is no complaint from the
+husband or wife, or from one of the blood relatives or in-laws in a straight line or lateral line up to the
+second degree of the dead person.
+
+(4)
+
+In a matriarchal community, complaints may also be made by other persons who exercise the Power of
+Father.",0.5,0.0,0.0,0.0,0.3333,1.0,0.6309,0.2,1.0,0.6309
+What defines a 'Corporation' according to Indonesian law?,penal_Article_146;penal_Article_45,immigration_Article_1;penal_Article_614;immigration_Article_136;penal_Article_146;penal_Article_154,"[ORIGINAL Article 1]
+Article 1
+In this Law what is meant by:
+1. Immigration is a matter of the movement of people entering or leaving the territory of Indonesia and its supervision in order to maintain the upholding of state sovereignty.
+2. The territory of the Republic of Indonesia, hereinafter referred to as the Territory of Indonesia, is the entire territory of Indonesia as well as certain zones determined by law.
+3. The Immigration function is part of state government affairs in providing immigration services, law enforcement, state security, and facilitating community welfare development.
+4. Minister is the minister who carries out government affairs in the field of law and human rights.
+5. Director General is the Director General of Immigration.
+6. The Directorate General of Immigration is the implementing element of the duties and functions of the Ministry of Law and Human Rights in the field of Immigration.
+7. An Immigration Officer is an employee who has undergone special Immigration education and has Immigration technical expertise and has the authority to carry out duties and responsibilities under this Law.
+8. Immigration Civil Servant Investigators, hereinafter referred to as Immigration PPNS, are Immigration Officials who are authorized by law to carry out investigations into Immigration crimes.
+9. Foreigners are people who are not Indonesian citizens.
+10. Immigration Management Information System is an information and communication technology system used to collect, process and present information to support operations, management and decision making in carrying out Immigration Functions.
+11. The Immigration Office is a technical implementing unit that carries out Immigration Functions in regency, city or sub-district areas.
+12. Immigration Checkpoints are checkpoints at seaports, airports, border crossing posts, or other places as points of entry and exit from Indonesian Territory.
+13. Travel Documents are official documents issued by authorized officials from a country, the United Nations, or other international organizations for travel between countries which contain the identity of the holder.
+14. Immigration Documents are Republic of Indonesia Travel Documents and Stay Permits issued by Immigration Officials or foreign service officials.
+15. Travel Documents of the Republic of Indonesia are the Passport of the Republic of Indonesia and the Travel Document is the Passport of the Republic of Indonesia.
+16. Passport of the Republic of Indonesia, hereinafter referred to as Passport, is a document issued by the Government of the Republic of Indonesia to Indonesian citizens to travel between countries which is valid for a certain period of time.
+17. Travel Document as a Passport of the Republic of Indonesia, hereinafter referred to as a Travel Letter as a Passport, is a passport replacement document which is issued in certain circumstances and is valid for a certain period of time.
+18. Republic of Indonesia Visa, hereinafter referred to as Visa, is a written statement given by an authorized official at the Representative Office of the Republic of Indonesia or at another place determined by the Government of the Republic of Indonesia which contains approval for Foreigners to travel to Indonesian Territory and is the basis for granting a Stay Permit.
+19. Entry Mark is a certain mark in the form of a stamp affixed to the Travel Documents of Indonesian citizens and Foreigners, both manual and electronic, which are given by Immigration Officials as a sign that the person concerned has entered Indonesian Territory.
+20. Exit Mark is a certain mark in the form of a stamp affixed to the Travel Documents of Indonesian citizens and Foreigners, both manual and electronic, which are given by Immigration Officials as a sign that the person concerned has left Indonesian Territory.
+21. A Stay Permit is a permit given to a Foreigner by an Immigration Officer or foreign service official to be in Indonesian Territory.
+22. Integration Statement is a statement by a Foreigner to the Government of the Republic of Indonesia as one of the conditions for obtaining a Permanent Stay Permit.
+23. Permanent Residence Permit is a permit granted to certain Foreigners to reside and settle in the Territory of Indonesia as residents of Indonesia.
+24. A Re-Entry Permit is a written permit given by an Immigration Officer to a Foreigner holding a Limited Stay Permit and Permanent Stay Permit to re-enter Indonesian Territory.
+25. A corporation is an organized collection of people and/or assets, whether a legal entity or non-legal entity.
+26. Guarantor is a person or corporation that is responsible for the presence and activities of foreigners while they are in Indonesian territory.
+27. Transportation means are ships, airplanes, or other means of transportation that are commonly used, both to transport people and goods.
+28. Prevention is a temporary prohibition on people leaving Indonesian territory based on immigration reasons or other reasons determined by law.
+29. Deterrence is a prohibition on foreigners from entering Indonesian territory based on immigration reasons.
+30. Immigration Intelligence is the activity of Immigration investigation and Immigration security in the framework of the process of presenting information through analysis in order to determine estimates of the Immigration situation being faced or to be faced.
+31. Immigration Administrative Actions are administrative sanctions determined by Immigration Officials against Foreigners outside the judicial process.
+32. Human Smuggling is an act aimed at seeking profit, either directly or indirectly, for oneself or for another person, bringing a person or group of people, whether organized or unorganized, or ordering another person to bring a person or group of people, whether organized or unorganized, who does not have the legal right to enter the Indonesian Territory or leave the Indonesian Territory and/or enter the territory of another country where the person does not have the right to enter the territory legally, either by using valid documents or fake documents, or without using Travel Documents, either through immigration inspection or not.
+33. Immigration Detention Center is a technical implementation unit that carries out Immigration Functions as a temporary shelter for Foreigners who are subject to Immigration Administrative Action.
+34. Immigration Detention Room is a temporary shelter for Foreigners who are subject to Immigration Administrative Action at the Directorate General of Immigration and the Immigration Office.
+35. Detainee is a foreigner who is a resident of an Immigration Detention Center or Immigration Detention Room who has received a detention decision from an Immigration Officer.
+36. Deportation is an act of forcibly removing foreigners from Indonesian territory.
+37. The person responsible for the transportation equipment is the owner, administrator, agent, captain, ship captain, pilot captain, or driver of the transportation equipment concerned.
+38. Passenger is every person on board the means of transportation, except the crew of the means of transportation.
+39. Representatives of the Republic of Indonesia are the Embassy of the Republic of Indonesia, the Consulate General of the Republic of Indonesia, and the Consulate of the Republic of Indonesia.
+
+---
+
+[ORIGINAL Article 614]
+Article 614
+At the time this Law comes into force:
+a.
+
+the terms felony (kejahatan) and misdemeanor (pelanggaran) used in the Laws other than this Law and
+Regulations of the Region shall be replaced with Crime (Tindak Pidana);
+
+b.
+
+the terms legal entities that take form of limited liability companies, foundations, associations,
+cooperatives, state-owned enterprises, regionally-owned enterprises, village-owned enterprises, or the
+equivalent, and unincorporated associations or business entities in the form of firma partnerships, limited
+partnerships or the equivalent that are regulated in the laws and regulations other than this Law shall be
+equated with Corporation as stipulated in this Law;
+
+c.
+
+the terms tangible or intangible objects, movable or immovable objects including water and demand
+deposits, electricity, gas, data, and Computer programs that are regulated in the Laws other than this Law
+shall be equated with Goods as stipulated in this Law;
+
+d.
+
+the terms civil servants, state civil apparatuses, members of the Indonesian National Police, and members
+
+
+
+
+of Indonesian National Armed Forces, state officials, public officials, regional officials, persons who receive
+salaries or wages from state or regional finance, persons who receive salaries or wages from
+Corporations which capital is entirely or largely owned by the state or region, or other officials regulated
+under the laws and regulations other than this Law and fulfilled the provisions as referred to in Article 154
+shall be Officials as stipulated in this Law.
+
+[DEFINITION FROM Article 154]
+Article 154
+Officials (Pejabat) are any Indonesian citizens who fulfilled the stipulated requirements, appointed by an
+authorized official and entrusted with state duties, or entrusted with other duties by the state, and paid based on
+the provisions of laws and regulations, namely:
+a.
+
+state civil apparatuses, members of the Indonesian National Police, and members of Indonesian National
+Armed Forces;
+
+b.
+
+state officials;
+
+c.
+
+public officials;
+
+d.
+
+regional officials;
+
+e.
+
+persons who receive salaries or wages from state or regional finance;
+
+f.
+
+persons who receive salaries or wages from Corporations which capital is entirely or largely owned by the
+state or region; or
+
+g.
+
+other officials stipulated based on the laws and regulations.
+
+---
+
+[ORIGINAL Article 136]
+Article 136
+(1) In the event that criminal acts as intended in Article 114, Article 116, Article 117, Article 118, Article 120, Article 124, Article 128 and Article 129 are committed by a Corporation, the criminal shall be imposed on the management and the corporation.
+(2) The only penalty imposed on a Corporation is a fine, provided that the amount of the fine is 3 (three) times the amount of each fine as intended in paragraph (1).
+(3) The criminal provisions as intended in Article 113, Article 119, Article 121 letter b, Article 123 letter b, and Article 126 letters a and b do not apply to victims of human trafficking and human smuggling.
+
+[DEFINITION FROM Article 113]
+Article 113
+Every person who intentionally enters or leaves Indonesian Territory without being examined by an Immigration Officer at the Immigration Checkpoint as intended in Article 9 paragraph (1) shall be punished with a maximum imprisonment of 1 (one) year and/or a maximum fine of IDR 100,000,000.00 (one hundred million rupiah).
+
+[DEFINITION FROM Article 114]
+Article 114
+(1) The Person in Charge of Transport Equipment entering or leaving the Indonesian Territory with means of transport that does not go through the Immigration Checkpoint as intended in Article 17 paragraph (1) shall be punished with a maximum imprisonment of 1 (one) year and/or a maximum fine of Rp. 100,000,000.00 (one hundred million rupiah).
+(2) The Person in Charge of Transport Equipment who deliberately drops off or picks up passengers who do not go through inspection by the Immigration Officer or landing inspection officer at the Immigration Checkpoint as intended in Article 17 paragraph (2) shall be punished with a maximum imprisonment of 2 (two) years and/or a maximum fine of IDR 200,000,000.00 (two hundred million rupiah).
+
+[DEFINITION FROM Article 116]
+Article 116
+Every Foreigner who does not carry out his obligations as intended in Article 71 shall be punished with imprisonment for a maximum of 3 (three) months or a fine of a maximum of Rp. 25,000,000.00 (twenty-five million rupiah).
+
+[DEFINITION FROM Article 117]
+Article 117
+Owners or administrators of accommodation who do not provide information or do not provide data on Foreigners staying at home or at their accommodation after being asked by the Immigration Officer on duty as intended in Article 72 paragraph (2) shall be punished with imprisonment for a maximum of 3 (three) months or a fine of a maximum of Rp. 25,000,000.00 (twenty-five million rupiah).
+
+[DEFINITION FROM Article 118]
+Article 118
+Any Guarantor who deliberately provides false information or does not fulfill the guarantee provided as intended in Article 63 paragraph (2) and paragraph (3) shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah).
+
+[DEFINITION FROM Article 119]
+Article 119
+(1) Every Foreigner who enters and/or remains in Indonesian Territory who does not have valid and valid Travel Documents and Visa as intended in Article 8 shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah).
+(2) Every Foreigner who intentionally uses a Travel Document, but knows or reasonably suspects that the Travel Document is fake or falsified, shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah).
+
+[DEFINITION FROM Article 120]
+Article 120
+(1) Any person who commits an act aimed at seeking profit, either directly or indirectly, for himself or for another person by bringing a person or group of people, whether organized or unorganized, or ordering another person to bring a person or group of people, whether organized or unorganized, who does not have the legal right to enter the Indonesian Territory or leave the Indonesian Territory and/or enter the territory of another country, where the person does not have the right to enter the territory legally, whether using valid documents or fake documents, or without using Travel Documents, either through immigration inspection or not, be punished for Human Smuggling with a minimum imprisonment of 5 (five) years and a maximum of 15 (fifteen) years and a fine of at least IDR 500,000,000.00 (five hundred million rupiah) and a maximum of IDR 1,500,000,000.00 (one billion five hundred million rupiah).
+(2) Attempts to commit the crime of Human Smuggling are punished with the same crime as intended in paragraph (1).
+
+[DEFINITION FROM Article 121]
+Article 121
+Sentenced to a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah):
+a. any person who deliberately makes a fake or falsifies a Visa or Entry Certificate or Stay Permit with the intention of using it for himself or another person to enter or leave or remain in the Territory of Indonesia;
+b. any Foreigner who deliberately uses a fake or falsified Visa or Entry Certificate or Residence Permit to enter or leave or remain in the Territory of Indonesia.
+
+[DEFINITION FROM Article 123]
+Article 123
+Sentenced to a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah):
+a. any person who deliberately provides false or falsified documents or data or incorrect information with the intention of obtaining a Visa or Residence Permit for himself or another person;
+b. every Foreigner who deliberately uses a Visa or Stay Permit as intended in letter a to enter and/or reside in Indonesian Territory.
+
+[DEFINITION FROM Article 124]
+Article 124
+Any person who deliberately hides or protects or provides lodging or provides a living or provides work to a foreigner who is known or reasonably suspected:
+a. being in the Indonesian Territory illegally shall be punished with imprisonment for a maximum of 2 (two) years and/or a fine of a maximum of IDR 200,000,000.00 (two hundred million rupiah);
+b. If your residence permit expires, you will be punished with a maximum imprisonment of 3 (three) months or a maximum fine of Rp. 25,000,000.00 (twenty-five million rupiah).
+
+[DEFINITION FROM Article 126]
+Article 126
+Any person who intentionally:
+a. using Republic of Indonesia Travel Documents to enter or leave Indonesian Territory, but knowing or reasonably suspecting that the Republic of Indonesia Travel Documents are fake or falsified, shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah);
+b. using another person's Republic of Indonesia Travel Document or one that has been revoked or declared invalid to enter or leave the Territory of Indonesia or handing over to another person a Republic of Indonesia Travel Document that was given to him or another person with the intention of using it unlawfully shall be punished by a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah);
+c. providing invalid data or incorrect information to obtain a Republic of Indonesia Travel Document for himself or another person shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah);
+d. possessing or unlawfully using 2 (two) or more similar Republic of Indonesia Travel Documents and all of which are still valid shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah);
+e. falsifying Republic of Indonesia Travel Documents or creating fake Republic of Indonesia Travel Documents with the intention of using them for oneself or another person shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah).
+
+[DEFINITION FROM Article 128]
+Article 128
+Sentenced to a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah):
+a. any person who intentionally and unlawfully prints, possesses, stores or trades blank Republic of Indonesia Travel Documents or other Immigration Documents;
+b. any person who intentionally and unlawfully makes, owns, keeps, or trades stamps or other devices used to validate Republic of Indonesia Travel Documents or other Immigration Documents.
+
+[DEFINITION FROM Article 129]
+Article 129
+Any person who intentionally and unlawfully for the benefit of himself or another person destroys, changes, adds to, reduces or removes, either in whole or in part, information or stamps contained in a Republic of Indonesia Travel Document or other Immigration Document, shall be punished by a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah).
+
+---
+
+[ORIGINAL Article 146]
+Article 146
+Corporation is an organized group of persons and/or assets, both in the form of legal entities that take the form
+of limited liability companies, foundations, associations, cooperatives, state-owned enterprises, regionally-owned
+enterprises, village-owned enterprises, or the equivalent, and unincorporated associations or business entities in
+the form of firma partnerships, limited partnerships or the equivalent.
+
+---
+
+[ORIGINAL Article 154]
+Article 154
+Officials (Pejabat) are any Indonesian citizens who fulfilled the stipulated requirements, appointed by an
+authorized official and entrusted with state duties, or entrusted with other duties by the state, and paid based on
+the provisions of laws and regulations, namely:
+a.
+
+state civil apparatuses, members of the Indonesian National Police, and members of Indonesian National
+Armed Forces;
+
+b.
+
+state officials;
+
+c.
+
+public officials;
+
+d.
+
+regional officials;
+
+e.
+
+persons who receive salaries or wages from state or regional finance;
+
+f.
+
+persons who receive salaries or wages from Corporations which capital is entirely or largely owned by the
+state or region; or
+
+g.
+
+other officials stipulated based on the laws and regulations.",0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.5,0.2641
+What is the penalty for forging a passport or travel document?,penal_Article_398,penal_Article_398;immigration_Article_129;immigration_Article_127;immigration_Article_119;immigration_Article_128,"[ORIGINAL Article 398]
+Article 398
+(1)
+
+Any Person shall be sentenced with imprisonment for a maximum of 5 (five) years and a maximum
+criminal fine of category V, if:
+a.
+
+making falsely or forge passports, travel documents in lieu of passport, or Letters granted in
+accordance with the provisions of the Law on the granting of permits to foreigners to Enter and
+settle in Indonesia; or
+
+b.
+
+asking to provide a similar Letter under a false name or false nickname or by pointing to a false
+condition,
+
+with the intention of using it or asking other persons to use it as if it were true or not false.
+(2)
+
+Any Person who uses a false or forged Letter as referred to in paragraph (1) as if it were true and not
+forged, or as if its content is in accordance with the truth, shall be sentenced with the same criminal
+sentence.
+
+---
+
+[ORIGINAL Article 129]
+Article 129
+Any person who intentionally and unlawfully for the benefit of himself or another person destroys, changes, adds to, reduces or removes, either in whole or in part, information or stamps contained in a Republic of Indonesia Travel Document or other Immigration Document, shall be punished by a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah).
+
+---
+
+[ORIGINAL Article 127]
+Article 127
+Any person who intentionally and unlawfully keeps a fake or falsified Republic of Indonesia Travel Document with the intention of using it for himself or another person shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah).
+
+---
+
+[ORIGINAL Article 119]
+Article 119
+(1) Every Foreigner who enters and/or remains in Indonesian Territory who does not have valid and valid Travel Documents and Visa as intended in Article 8 shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of IDR 500,000,000.00 (five hundred million rupiah).
+(2) Every Foreigner who intentionally uses a Travel Document, but knows or reasonably suspects that the Travel Document is fake or falsified, shall be punished with a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah).
+
+[DEFINITION FROM Article 8]
+Article 8
+(1) Every person entering or leaving the Territory of Indonesia is required to have a valid and still valid Travel Document.
+(2) Every foreigner who enters the territory of Indonesia is required to have a valid and valid visa, unless otherwise determined based on this law and international agreements.
+
+---
+
+[ORIGINAL Article 128]
+Article 128
+Sentenced to a maximum imprisonment of 5 (five) years and a maximum fine of Rp. 500,000,000.00 (five hundred million rupiah):
+a. any person who intentionally and unlawfully prints, possesses, stores or trades blank Republic of Indonesia Travel Documents or other Immigration Documents;
+b. any person who intentionally and unlawfully makes, owns, keeps, or trades stamps or other devices used to validate Republic of Indonesia Travel Documents or other Immigration Documents.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+What are the core purposes of sentencing a convict?,penal_Article_51,penal_Article_51;penal_Article_104;penal_Article_75;penal_Article_71;penal_Article_70,"[ORIGINAL Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+---
+
+[ORIGINAL Article 104]
+Article 104
+In imposing a decision in the form of measures, judges are obliged to pay attention to the provisions as referred
+to in Article 51 to Article 54.
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.
+
+---
+
+[ORIGINAL Article 75]
+Article 75
+The defendant who commits a Crime which is threatened with imprisonment for a maximum of 5 (five) years may
+
+
+
+
+be subject to criminal supervision, while still observing the provisions as referred to in Article 51 to Article 54 and
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.
+
+---
+
+[ORIGINAL Article 71]
+Article 71
+(1)
+
+If a person commits a Crime which is only threatened with imprisonment for under 5 (five) years, while the
+judge is of the opinion that it is not necessary to impose an imprisonment after considering the purpose of
+sentencing and guidelines for sentencing as referred to in Article 51 to Article 54, the said person may be
+subject to a criminal fine.
+
+(2)
+
+The criminal fine as referred to in paragraph (1) may only be imposed if:
+a.
+
+there are no Victims;
+
+b.
+
+Victims make no problem out of it; or
+
+c.
+
+It is not a recidivism.
+
+(3)
+
+The criminal fine which may be imposed based on the provision as referred to in paragraph (1) is a
+maximum criminal fine of category V and a minimum criminal fine of category III.
+
+(4)
+
+The provision as referred to in paragraph (2) letter c does not apply to persons who have been subject to
+imprisonment for a Crime committed before the age of 18 (eighteen) years.
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.
+
+---
+
+[ORIGINAL Article 70]
+Article 70
+(1)
+
+By still considering the provisions as referred to in Article 51 to Article 54, imprisonment should not be
+
+
+
+
+imposed if any of the following conditions are discovered:
+
+(2)
+
+a.
+
+the defendant is a Child;
+
+b.
+
+the defendant is over 75 (seventy-five) years old;
+
+c.
+
+the defendant has only committed a Crime for the first time;
+
+d.
+
+the loss and suffering of the Victim are not severe;
+
+e.
+
+the defendant has paid compensation to the Victim;
+
+f.
+
+the defendant is not aware that the Crime committed will result in a large loss;
+
+g.
+
+the Crime occurs due to very strong incitement from another person;
+
+h.
+
+the Victim of a Crime pushes or encourages the occurrence of said Crime;
+
+i.
+
+the said Crime is the result of a situation that is impossible to repeat;
+
+j.
+
+the personality and behavior of the defendant ensure that he/she will not commit another Crime;
+
+k.
+
+the imprisonment will cause great suffering to the defendant or his/her family;
+
+l.
+
+guidance outside of correctional facilities is expected to be successful for the defendant;
+
+m.
+
+the imposition of a lighter sentence will not reduce the seriousness of the Crimes committed by the
+defendant;
+
+n.
+
+Crimes occur within the family; and/or
+
+o.
+
+Crimes occur due to negligence.
+
+The provisions as referred to in paragraph (1) do not apply to:
+a.
+
+Crimes which are threatened with imprisonment for 5 (five) years or more;
+
+b.
+
+Crimes which are threatened with special minimum sentence;
+
+c.
+
+certain Crimes which are very dangerous or detrimental to the community; or
+
+d.
+
+Crimes which are detrimental to state finances or economy.
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+How long is the time limit to file a complaint for someone living outside Indonesia?,penal_Article_29,penal_Article_29;penal_Article_229;immigration_Article_78;penal_Article_412;penal_Article_437,"[ORIGINAL Article 29]
+Article 29
+(1)
+
+(2)
+
+Complaints should be filed within the following grace periods:
+a.
+
+6 (six) Months from the date the person entitled to complain becomes aware of the existence of a
+Crime if the person entitled to complain resides in the territory of the Unitary State of the Republic of
+Indonesia; or
+
+b.
+
+9 (nine) Months from the date the person entitled to complain becomes aware of the existence of a
+Crime if the person entitled to complain resides outside the territory of the Unitary State of the
+Republic of Indonesia.
+
+If there is more than 1 (one) person entitled to file a complaint, the grace period as referred to in
+paragraph (1) shall be calculated from the date each complainant becomes aware of the Crime.
+
+---
+
+[ORIGINAL Article 229]
+Article 229
+(1)
+
+The Crimes as referred to in Article 226 up to Article 228 may only be prosecuted based on a complaint.
+
+(2)
+
+The complaint as referred to in paragraph (1) may be filed in writing by the head of a friendly country and
+a representative of a friendly country.
+
+[DEFINITION FROM Article 226]
+Article 226
+Any Person who in Public assaulted the honor or dignity and prestige of the head of a friendly country who is
+carrying out state duties in the Unitary State of the Republic of Indonesia shall be sentenced with imprisonment
+
+
+
+
+for a maximum of 2 (two) years or a maximum criminal fine of category III.
+
+[DEFINITION FROM Article 228]
+Article 228
+(1)
+
+Any Person who broadcast, show, or attach writings or pictures so as to become visible to the public, play
+recordings so that they are heard by the public, or disseminate by means of information technology
+containing assaults against the honor or dignity and prestige of the head of a friendly country or a
+representatives of a friendly country in the Unitary State of the Republic of Indonesia with the intention that
+the contents of assault against the honor or dignity and prestige are publicly known, shall be sentenced
+with imprisonment for a maximum of 3 (three) years or a maximum criminal fine of category IV.
+
+(2)
+
+If Any Person as referred to in paragraph (1) commit the said act while carrying out their professions and
+at that time it has not passed 2 (two) years since a criminal decision that has obtained permanent legal
+force for committing the same Crime, they may be sentenced with an additional sentence in the form of
+revocation of rights as referred to in Article 86 letter f.
+
+---
+
+[ORIGINAL Article 78]
+Article 78
+(1) Foreigners holding a Stay Permit whose validity period has expired and are still in the Indonesian Territory for less than 60 (sixty) days from the Stay Permit deadline are subject to a burden fee in accordance with the provisions of statutory regulations.
+(2) Foreigners who do not pay the fees as intended in paragraph (1) are subject to Immigration Administrative Action in the form of Deportation and Detention.
+(3) Foreigners holding a Stay Permit whose validity period has expired and are still in Indonesian Territory for more than 60 (sixty) days from the Stay Permit deadline are subject to Immigration Administrative Action in the form of Deportation and Detention.
+
+---
+
+[ORIGINAL Article 412]
+Article 412
+(1)
+
+Any Person who lives together as husband and wife outside of marriage shall be sentenced with
+imprisonment for a maximum of 6 (six) Months or a maximum criminal fine of category II.
+
+(2)
+
+The Crime as referred to in paragraph (1) shall not be prosecuted except due to complaints from:
+a.
+
+the husband or wife, for persons bound by marriage; or
+
+b.
+
+Parents or their children, for persons who are not bound by marriage.
+
+(3)
+
+Toward complaint as referred to in paragraph (2), the provisions of Article 25, Article 26, and Article 30
+shall not apply.
+
+(4)
+
+Complaints may be withdrawn as long as the examination in court hearing has not yet started.
+
+[DEFINITION FROM Article 25]
+Article 25
+(1)
+
+In the event that the Victim of a Crime warranting complaint is not yet 16 (sixteen) years old, the parents
+or godparents shall be the one who has the right to file a complaint.
+
+(2)
+
+In the event that the parents or godparents as referred to in paragraph (1) does not exist or the parents or
+godparents themselves are to be reported, the complaint shall be made by blood relatives in a straight
+
+
+
+
+line.
+(3)
+
+In the event that there are no blood relatives in a straight line as referred to in paragraph (2), the complaint
+shall be made by blood relatives in a lateral line up to the third degree.
+
+(4)
+
+In the event that the Victim of the Crime as referred to in paragraph (1) does not have a parent, godparent,
+or blood relative in a straight line vertically or laterally up to the third degree, the complaint shall be made
+by himself or herself and/or the caseworker.
+
+[DEFINITION FROM Article 26]
+Article 26
+(1)
+
+In the event that the victim of a crime warranting complaint is under guardianship, the one who has the
+right to file the complaint is the guardian, except for the victim of a crime warranting complaint who is
+under guardianship due to extravagance.
+
+(2)
+
+In the event that the guardian as referred to in paragraph (1) does not exist or the guardian itself are to be
+reported, the complaint shall be made by the husband or wife of the Victim or blood relatives in a straight
+line.
+
+(3)
+
+In the event that the husband or wife of the Victim or blood relatives in a straight line as referred to in
+paragraph (2) does not exist, the complaint shall be made by blood relatives in a lateral line up to the third
+degree.
+
+[DEFINITION FROM Article 30]
+Article 30
+
+
+
+
+(1)
+
+Complaints may be withdrawn by the complainants within 3 (three) months from the date the complaint is
+filed.
+
+(2)
+
+Complaints which are withdrawn cannot be filed again.
+
+---
+
+[ORIGINAL Article 437]
+Article 437
+(1)
+
+Any Person who submits a false complaint or notification in writing or asks another person to write down
+the false complaint or notification to the authorized Official regarding someone to assault the honor or
+reputation of that person, shall be sentenced due to committing a calumny complaint, with imprisonment
+for a maximum of 3 (three) year and 6 (six) months or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person as referred to in paragraph (1) may be sentenced with additional sentence in the form of
+revocation of rights as referred to in Article 86 letter a and/or letter b.
+
+[DEFINITION FROM Article 86]
+Article 86
+Additional sentence in the form of revocation of certain rights as referred to in Article 66 paragraph (1) letter a
+may be in the form of:
+a.
+
+the right to hold public position in general or certain positions;
+
+b.
+
+the right to be a member of the Indonesian National Armed Forces and the Indonesian National Police;
+
+c.
+
+the right to vote and to be elected in elections which are held in accordance with the provisions of laws
+and regulations;
+
+d.
+
+the right to become a godparent, supervisory godparent, guardian or supervisory guardian of a person
+who is not their own Child;
+
+e.
+
+the right to exercise the Power of Father, to exercise godparenting or to exercise guardianship over their
+own Child;
+
+f.
+
+the right to practice certain professions; and/or
+
+g.
+
+the right to obtain parole.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+What is the maximum penalty for selling intoxicating drinks to a child?,penal_Article_424,penal_Article_424;penal_Article_503;penal_Article_408;penal_Article_609;penal_Article_429,"[ORIGINAL Article 424]
+Article 424
+(1)
+
+Any Person who sells or gives intoxicating beverages or substances to persons who are intoxicated shall
+be sentenced with imprisonment for a maximum of 1 (one) year or a maximum criminal fine of category II.
+
+(2)
+
+Any Person who sells or provides intoxicating beverages or materials to Children shall be sentenced with
+imprisonment for a maximum of 2 (two) years or a maximum criminal fine of category II.
+
+(3)
+
+Any Person who, through violence or threats of violence, forces a person to drink or use intoxicating
+substances, shall be sentenced with imprisonment for a maximum of 3 (three) years or a maximum
+criminal fine of category III.
+
+(4)
+
+If the acts as referred to in paragraph (1) to paragraph (3):
+
+(5)
+
+a.
+
+result in Serious Injury, shall be sentenced with imprisonment for a maximum of 5 (five) years or a
+maximum criminal fine of category IV; or
+
+b.
+
+result in the death of a person, shall be sentenced with imprisonment for a maximum of 7 (seven)
+years.
+
+If the offender of the Crime as referred to in paragraph (1) to paragraph (3) commits said act in carrying
+out their profession, then they may be sentenced with an additional crime in the form of revocation of
+rights as referred to in Article 86 letter f.
+
+[DEFINITION FROM Article 86]
+Article 86
+Additional sentence in the form of revocation of certain rights as referred to in Article 66 paragraph (1) letter a
+may be in the form of:
+a.
+
+the right to hold public position in general or certain positions;
+
+b.
+
+the right to be a member of the Indonesian National Armed Forces and the Indonesian National Police;
+
+c.
+
+the right to vote and to be elected in elections which are held in accordance with the provisions of laws
+and regulations;
+
+d.
+
+the right to become a godparent, supervisory godparent, guardian or supervisory guardian of a person
+who is not their own Child;
+
+e.
+
+the right to exercise the Power of Father, to exercise godparenting or to exercise guardianship over their
+own Child;
+
+f.
+
+the right to practice certain professions; and/or
+
+g.
+
+the right to obtain parole.
+
+---
+
+[ORIGINAL Article 503]
+Article 503
+(1)
+
+Any Person who sells, offers, or delivers Goods in the form of food, beverages or drugs, which they know
+to be counterfeit and conceal said counterfeit, shall be sentenced with imprisonment for a maximum of 5
+(five) years or a maximum criminal fine of category V.
+
+
+
+
+(2)
+
+If the Crime as referred to in paragraph (1) results in Serious Injury or disease, shall be sentenced with
+imprisonment for a maximum of 7 (seven) years.
+
+(3)
+
+If the Crime as referred to in paragraph (1) results in the death of a person, shall be sentenced with
+imprisonment for a maximum of 9 (nine) years.
+
+---
+
+[ORIGINAL Article 408]
+Article 408
+Any Person who openly demonstrates, offers, broadcasts writings, or shows that they are able to obtain
+contraceptives to children, shall be sentenced with a maximum criminal fine of category I.
+
+---
+
+[ORIGINAL Article 609]
+Article 609
+(1)
+
+(2)
+
+Any Person who illegally owns, keeps, controls, or provides:
+a.
+
+non-plant Category I Narcotics shall be sentenced with imprisonment for a minimum of 4 (four)
+years and a maximum of 12 (twelve) years and a minimum criminal fine of category IV and a
+maximum of category VI;
+
+b.
+
+Category II Narcotics shall be sentenced with imprisonment for a minimum of 3 (three) years and a
+maximum of 10 (ten) years and a minimum criminal fine of category IV and a maximum of category
+VI; and
+
+c.
+
+Category III Narcotics shall be sentenced with imprisonment for a minimum of 2 (two) years and a
+maximum of 7 (seven) years and a minimum criminal fine of category IV and a maximum of
+category VI.
+
+In the event that the acts as referred to in paragraph (1) are conducted on:
+a.
+
+non-plant Category I Narcotics weighing more than 5 (five) grams shall be sentenced with life
+imprisonment or imprisonment for a minimum of 5 (five) years and a maximum of 20 (twenty) years
+and a minimum criminal fine of category V and a maximum of category VI;
+
+b.
+
+Category II Narcotics weighing more than 5 (five) grams shall be sentenced with imprisonment for a
+minimum of 5 (five) years and a maximum of 15 (fifteen) years and a minimum criminal fine of
+category V and a maximum of category VI; and
+
+c.
+
+Category III Narcotics weighing more than 5 (five) grams shall be sentenced with imprisonment for
+a minimum of 5 (five) years and a maximum of 15 (fifteen) years and a minimum criminal fine of
+category V and a maximum of category VI.
+
+---
+
+[ORIGINAL Article 429]
+Article 429
+(1)
+
+Any Person who leaves a child who has not yet reached the age of 7 (seven) years with the intention to
+release the responsibility for the child, shall be sentenced with imprisonment for a maximum of 5 (five)
+years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person as referred to in paragraph (1) shall be sentenced with:
+
+(3)
+
+a.
+
+imprisonment for a maximum of 7 (seven) years, if said act resulted in Serious Injury; or
+
+b.
+
+imprisonment for a maximum of 9 (nine) years, if said act resulted in death.
+
+In the event that the Crime as referred to in paragraph (1) and paragraph (2) is committed by the Father or
+mother of the child as referred to in paragraph (1), the sentence may be increased by 1/3 (one-third).",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+Who is liable for crimes committed on behalf of a corporation?,penal_Article_47;penal_Article_49,penal_Article_47;penal_Article_46;penal_Article_48;penal_Article_49;penal_Article_56,"[ORIGINAL Article 47]
+Article 47
+Other than the provisions as referred to in Article 46, Crimes by Corporations may be committed by the ordergiver (pemberi perintah), controllers, or beneficial owners of Corporations who are outside of the organizational
+structure, but may control the Corporations.
+
+[DEFINITION FROM Article 46]
+Article 46
+Crime by Corporations are Crimes committed by management who have functional positions within the
+Corporation’s organizational structure or persons who, based on work relationships or based on other
+relationships, acting for and on behalf of the Corporations or acting in the interests of the Corporations, within the
+scope of said Corporations’ business or activities, either individually or collectively.
+
+---
+
+[ORIGINAL Article 46]
+Article 46
+Crime by Corporations are Crimes committed by management who have functional positions within the
+Corporation’s organizational structure or persons who, based on work relationships or based on other
+relationships, acting for and on behalf of the Corporations or acting in the interests of the Corporations, within the
+scope of said Corporations’ business or activities, either individually or collectively.
+
+---
+
+[ORIGINAL Article 48]
+Article 48
+Crimes by Corporations as referred to in Article 46 and Article 47 may be accounted for, if:
+a.
+
+it is included in the scope of business or activity as determined in the articles of association or other
+provisions applicable to Corporations;
+
+b.
+
+it benefit the Corporations unlawfully;
+
+c.
+
+it is accepted as a Corporate policy;
+
+d.
+
+Corporations fail to take the necessary measures in order to implement prevention, prevent a greater
+impact and ensure compliance with the prevailing legal provisions in order to avoid the occurrence of
+Crimes; and/or
+
+e.
+
+Corporations allow Crimes to occur.
+
+[DEFINITION FROM Article 46]
+Article 46
+Crime by Corporations are Crimes committed by management who have functional positions within the
+Corporation’s organizational structure or persons who, based on work relationships or based on other
+relationships, acting for and on behalf of the Corporations or acting in the interests of the Corporations, within the
+scope of said Corporations’ business or activities, either individually or collectively.
+
+[DEFINITION FROM Article 47]
+Article 47
+Other than the provisions as referred to in Article 46, Crimes by Corporations may be committed by the ordergiver (pemberi perintah), controllers, or beneficial owners of Corporations who are outside of the organizational
+structure, but may control the Corporations.
+
+---
+
+[ORIGINAL Article 49]
+Article 49
+Liability for Crimes by Corporations as referred to in Article 48 is imposed upon Corporations, management who
+have functional positions, order-givers, controllers, and/or beneficial owners of Corporations.
+
+[DEFINITION FROM Article 48]
+Article 48
+Crimes by Corporations as referred to in Article 46 and Article 47 may be accounted for, if:
+a.
+
+it is included in the scope of business or activity as determined in the articles of association or other
+provisions applicable to Corporations;
+
+b.
+
+it benefit the Corporations unlawfully;
+
+c.
+
+it is accepted as a Corporate policy;
+
+d.
+
+Corporations fail to take the necessary measures in order to implement prevention, prevent a greater
+impact and ensure compliance with the prevailing legal provisions in order to avoid the occurrence of
+Crimes; and/or
+
+e.
+
+Corporations allow Crimes to occur.
+
+---
+
+[ORIGINAL Article 56]
+Article 56
+In sentencing toward Corporation, the following matters must be taken into consideration:
+a.
+
+the level of losses or impacts caused;
+
+b.
+
+the level of involvement of management who have functional positions in Corporations and/or the role of
+order-giver, controller and/or beneficial owner of Corporations;
+
+c.
+
+the duration of the Crime committed;
+
+d.
+
+frequency of Crime by Corporation;
+
+e.
+
+form of fault of the Crime;
+
+f.
+
+involvement of Officials;
+
+g.
+
+values of law and justice that live in the community;
+
+h.
+
+track record of Corporations in conducting business or activities;
+
+
+
+
+i.
+
+the effect of sentencing upon Corporations; and/or
+
+j.
+
+cooperation between Corporations in the handling of Crime.",1.0,1.0,0.5,1.0,0.3333,0.5,0.6131,0.4,1.0,0.8772
+What are the specific types of 'additional sentences' a judge can order?,penal_Article_66,penal_Article_66;penal_Article_491;penal_Article_91;penal_Article_385;penal_Article_86,"[ORIGINAL Article 66]
+Article 66
+(1)
+
+The additional sentence as referred to in Article 64 letter b consist of:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods and/or invoices;
+
+c.
+
+announcement of the judge’s decision;
+
+d.
+
+payment of compensation;
+
+e.
+
+revocation of certain licenses; and
+
+f.
+
+fulfillment of local customary obligations.
+
+(2)
+
+The additional sentence as referred to in paragraph (1) may be imposed in the event that the imposition of
+the principal sentence alone is insufficient to achieve the purpose of sentencing.
+
+(3)
+
+The additional sentence as referred to in paragraph (1) may be imposed for 1 (one) type or more.
+
+(4)
+
+The additional sentence for attempt and assistance is the same as the additional sentence for the Crime.
+
+(5)
+
+The additional sentence for members of the Indonesian National Armed Forces who commit Crimes in a
+connectivity case shall be imposed in accordance with the provisions of laws and regulations for the
+Indonesian National Armed Forces.
+
+[DEFINITION FROM Article 64]
+Article 64
+Criminal sentence consists of:
+a.
+
+principal sentence;
+
+b.
+
+additional sentence; and
+
+c.
+
+special sentence for certain Crimes stipulated under the Law.
+
+---
+
+[ORIGINAL Article 491]
+Article 491
+(1)
+
+Any Person as referred to in Article 486, Article 488 or Article 489, may be sentenced with additional
+sentence in the form of announcement of the judge’s decision as referred to in Article 66 paragraph (1)
+letter c and revocation of one or more rights as referred to in Article 86.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed in carrying out their profession, the offender may
+be sentenced with additional sentence in the form of revocation of rights as referred to in Article 86 letter f.
+
+[DEFINITION FROM Article 66]
+Article 66
+(1)
+
+The additional sentence as referred to in Article 64 letter b consist of:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods and/or invoices;
+
+c.
+
+announcement of the judge’s decision;
+
+d.
+
+payment of compensation;
+
+e.
+
+revocation of certain licenses; and
+
+f.
+
+fulfillment of local customary obligations.
+
+(2)
+
+The additional sentence as referred to in paragraph (1) may be imposed in the event that the imposition of
+the principal sentence alone is insufficient to achieve the purpose of sentencing.
+
+(3)
+
+The additional sentence as referred to in paragraph (1) may be imposed for 1 (one) type or more.
+
+(4)
+
+The additional sentence for attempt and assistance is the same as the additional sentence for the Crime.
+
+(5)
+
+The additional sentence for members of the Indonesian National Armed Forces who commit Crimes in a
+connectivity case shall be imposed in accordance with the provisions of laws and regulations for the
+Indonesian National Armed Forces.
+
+[DEFINITION FROM Article 86]
+Article 86
+Additional sentence in the form of revocation of certain rights as referred to in Article 66 paragraph (1) letter a
+may be in the form of:
+a.
+
+the right to hold public position in general or certain positions;
+
+b.
+
+the right to be a member of the Indonesian National Armed Forces and the Indonesian National Police;
+
+c.
+
+the right to vote and to be elected in elections which are held in accordance with the provisions of laws
+and regulations;
+
+d.
+
+the right to become a godparent, supervisory godparent, guardian or supervisory guardian of a person
+who is not their own Child;
+
+e.
+
+the right to exercise the Power of Father, to exercise godparenting or to exercise guardianship over their
+own Child;
+
+f.
+
+the right to practice certain professions; and/or
+
+g.
+
+the right to obtain parole.
+
+[DEFINITION FROM Article 486]
+Article 486
+
+
+
+
+Any Person who unlawfully owns Goods which partially or wholly owned by another person, which is in his/her
+control not due to a Crime, shall be sentenced due to embezzlement, with imprisonment for a maximum of 4
+(four) years or a maximum criminal fine of category IV.
+
+[DEFINITION FROM Article 488]
+Article 488
+In the event that the act as referred to in Article 486 is carried out by a person whose possession of said Goods
+is due to a work relationship, due to their profession, or due to receiving a wage for the possession of said
+Goods, shall be sentenced with imprisonment for a maximum of 5 (five) years or a maximum criminal fine of
+category V.
+
+[DEFINITION FROM Article 489]
+Article 489
+In the event that the act as referred to in Article 486 is carried out by a person who receives the Goods from
+other persons who are forced to hand over the Goods to them for storage or by godparents, guardians,
+administrators or executors of wills, administrators of social institutions or foundations against the Goods they
+control, shall be sentenced with imprisonment for a maximum of 5 (five) years or a maximum criminal fine of
+category V.
+
+---
+
+[ORIGINAL Article 91]
+Article 91
+The additional sentence in the form of confiscation of certain Goods and/or invoice as referred to in Article 66
+paragraph (1) letter b which may be confiscated includes certain Goods and/or invoice:
+a.
+
+which are used to realize or prepare Crimes;
+
+b.
+
+which are specifically made or intended to realize Crimes;
+
+c.
+
+which relate to the realization of Crimes;
+
+d.
+
+property of the convict or other persons obtained from Crimes;
+
+e.
+
+from economic benefits which are obtained, either directly or indirectly, from Crimes; and/or
+
+f.
+
+which are used to obstruct investigation, prosecution and examination in court hearing.
+
+[DEFINITION FROM Article 66]
+Article 66
+(1)
+
+The additional sentence as referred to in Article 64 letter b consist of:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods and/or invoices;
+
+c.
+
+announcement of the judge’s decision;
+
+d.
+
+payment of compensation;
+
+e.
+
+revocation of certain licenses; and
+
+f.
+
+fulfillment of local customary obligations.
+
+(2)
+
+The additional sentence as referred to in paragraph (1) may be imposed in the event that the imposition of
+the principal sentence alone is insufficient to achieve the purpose of sentencing.
+
+(3)
+
+The additional sentence as referred to in paragraph (1) may be imposed for 1 (one) type or more.
+
+(4)
+
+The additional sentence for attempt and assistance is the same as the additional sentence for the Crime.
+
+(5)
+
+The additional sentence for members of the Indonesian National Armed Forces who commit Crimes in a
+connectivity case shall be imposed in accordance with the provisions of laws and regulations for the
+Indonesian National Armed Forces.
+
+---
+
+[ORIGINAL Article 385]
+Article 385
+(1)
+
+(2)
+
+Shall be sentenced with imprisonment for a maximum of 4 (four) years or a maximum criminal fine of
+category V, Any Person who:
+a.
+
+affixes Goods which must be inscribed or upon the request of the concerned are permitted to be
+inscribed or inscribed again with a forged state inscription of the Republic of Indonesia;
+
+b.
+
+forge an original state inscription with the intention of using or asking others to use said Goods as if
+the state inscription are original or not forged;
+
+c.
+
+unlawfully affixes the inscription to the Goods as referred to in letter a with the original seal with the
+same purpose as referred to in letter b; or
+
+d.
+
+gives, add, or transfers the original inscription of the Republic of Indonesia on other Goods that are
+originally affixed with such original inscription, with the intention of using or asking other persons to
+use it as if the said inscription had been there from the beginning on said Goods.
+
+Any Person as referred to in paragraph (1) may be sentenced with additional sentence in the form of
+announcing the judge’s decision as referred to in Article 66 paragraph (1) letter c.
+
+[DEFINITION FROM Article 66]
+Article 66
+(1)
+
+The additional sentence as referred to in Article 64 letter b consist of:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods and/or invoices;
+
+c.
+
+announcement of the judge’s decision;
+
+d.
+
+payment of compensation;
+
+e.
+
+revocation of certain licenses; and
+
+f.
+
+fulfillment of local customary obligations.
+
+(2)
+
+The additional sentence as referred to in paragraph (1) may be imposed in the event that the imposition of
+the principal sentence alone is insufficient to achieve the purpose of sentencing.
+
+(3)
+
+The additional sentence as referred to in paragraph (1) may be imposed for 1 (one) type or more.
+
+(4)
+
+The additional sentence for attempt and assistance is the same as the additional sentence for the Crime.
+
+(5)
+
+The additional sentence for members of the Indonesian National Armed Forces who commit Crimes in a
+connectivity case shall be imposed in accordance with the provisions of laws and regulations for the
+Indonesian National Armed Forces.
+
+---
+
+[ORIGINAL Article 86]
+Article 86
+Additional sentence in the form of revocation of certain rights as referred to in Article 66 paragraph (1) letter a
+may be in the form of:
+a.
+
+the right to hold public position in general or certain positions;
+
+b.
+
+the right to be a member of the Indonesian National Armed Forces and the Indonesian National Police;
+
+c.
+
+the right to vote and to be elected in elections which are held in accordance with the provisions of laws
+and regulations;
+
+d.
+
+the right to become a godparent, supervisory godparent, guardian or supervisory guardian of a person
+who is not their own Child;
+
+e.
+
+the right to exercise the Power of Father, to exercise godparenting or to exercise guardianship over their
+own Child;
+
+f.
+
+the right to practice certain professions; and/or
+
+g.
+
+the right to obtain parole.
+
+[DEFINITION FROM Article 66]
+Article 66
+(1)
+
+The additional sentence as referred to in Article 64 letter b consist of:
+a.
+
+revocation of certain rights;
+
+b.
+
+confiscation of certain Goods and/or invoices;
+
+c.
+
+announcement of the judge’s decision;
+
+d.
+
+payment of compensation;
+
+e.
+
+revocation of certain licenses; and
+
+f.
+
+fulfillment of local customary obligations.
+
+(2)
+
+The additional sentence as referred to in paragraph (1) may be imposed in the event that the imposition of
+the principal sentence alone is insufficient to achieve the purpose of sentencing.
+
+(3)
+
+The additional sentence as referred to in paragraph (1) may be imposed for 1 (one) type or more.
+
+(4)
+
+The additional sentence for attempt and assistance is the same as the additional sentence for the Crime.
+
+(5)
+
+The additional sentence for members of the Indonesian National Armed Forces who commit Crimes in a
+connectivity case shall be imposed in accordance with the provisions of laws and regulations for the
+Indonesian National Armed Forces.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+How is a convict's prison term calculated if they escape?,penal_Article_63,penal_Article_63;penal_Article_143;penal_Article_569;penal_Article_284;penal_Article_531,"[ORIGINAL Article 63]
+Article 63
+If convicts escape, the period during which the convict escapes is not calculated as the time spent serving their
+prison term.
+
+---
+
+[ORIGINAL Article 143]
+Article 143
+(1)
+
+The expiration date for the implementation of a criminal sentence shall be calculated on the following day
+after a court decision can be implemented.
+
+(2)
+
+If a convict escapes while serving a criminal sentence, then the expiration date shall be calculated on the
+following day from the date upon which the convict escaped.
+
+
+
+
+(3)
+
+If a parole towards a convict is revoked, the expiration date shall be calculated on the following day since
+the date of revocation.
+
+(4)
+
+The expiration date for the implementation of criminal sentence shall be postponed so long as:
+a.
+
+the implementation of the said criminal sentence is postponed based on laws and regulations; or
+
+b.
+
+the convicts are deprived of their freedom even though the deprivation of their freedom is related to
+a court decision for another Crime.
+
+---
+
+[ORIGINAL Article 569]
+Article 569
+(1)
+
+An Indonesian Ship’s captain who allows escaping or release of a suspect, defendant, convict, or prisoner
+or provides assistance when he/she are released or releasing him/herself, even though the person is
+being transported on his/her Ship based on a request in accordance with the provisions of laws and
+regulations, shall be sentenced with imprisonment for a maximum of 4 (four) years or a maximum criminal
+fine of category IV.
+
+(2)
+
+In the event that due to the negligence of the captain resulted in the suspect, defendant, convict, or
+prisoner as referred to in paragraph (1) to release or escape, shall be sentenced with imprisonment for a
+maximum of 6 (six) months or a maximum criminal fine of category II.
+
+---
+
+[ORIGINAL Article 284]
+Article 284
+Any Person who release or provide assistance when a person escapes from detention which is conducted by
+order of an authorized Official or escapes from imprisonment or custody, shall be sentenced with imprisonment
+for a maximum of 3 (three) years or a maximum criminal fine of category IV.
+
+---
+
+[ORIGINAL Article 531]
+Article 531
+(1)
+
+An Official who is assigned to guard a detained person based on the order of an authorized official or a
+court decision or ruling, allows said person to escape, releases said person, or helps said person when
+he/she are released or releasing him/herself, shall be sentenced with imprisonment for a maximum of 4
+
+
+
+
+(four) years.
+(2)
+
+The Official, as referred to in paragraph (1), who, due to negligence, causes the detained person to
+escape, shall be sentenced with imprisonment for a maximum of 1 (one) year.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+When does the authority to prosecute a serious crime like murder expire?,penal_Article_136,penal_Article_142;penal_Article_136;penal_Article_132;penal_Article_133;penal_Article_138,"[ORIGINAL Article 142]
+Article 142
+(1)
+
+The authority to implement a criminal sentence shall lapse due to expiration after the enforcement of a
+grace period equal to the expiration date of the authority to prosecute as referred to in Article 136 plus 1/3
+(one-third).
+
+(2)
+
+The expiration date for the implementation of a criminal sentence must exceed the length of the criminal
+sentence imposed, except for life imprisonment.
+
+(3)
+
+The implementation of the capital punishment does not have an expiration date.
+
+(4)
+
+If the capital punishment is changed into life imprisonment as referred to in Article 101, the authority to
+implement the criminal sentence shall lapse due to expiration after the elapsed time equal to the expiration
+date of the authority to prosecute as referred to in Article 136 paragraph (1) letter e plus 1/3 (one third) of
+the expiration date.
+
+[DEFINITION FROM Article 101]
+Article 101
+If the application for pardon of the death row convict is rejected and the capital punishment is not implemented
+for 10 (ten) years since the pardon is rejected not because the convict has run away, then the capital punishment
+may be changed into life imprisonment by a Decree of the President.
+
+[DEFINITION FROM Article 136]
+Article 136
+(1)
+
+(2)
+
+The authority to prosecute shall be declared invalid due to expiration if:
+a.
+
+after exceeding a period of 3 (three) years for Crimes which are threatened with imprisonment for a
+maximum of 1 (one) year and/or only a maximum criminal fine of category III;
+
+b.
+
+after exceeding a period of 6 (six) years for Crimes which are threatened with imprisonment for
+more than 1 (one) year and for a maximum of 3 (three) years;
+
+c.
+
+after exceeding a period of 12 (twelve) years for Crimes which are threatened with imprisonment for
+more than 3 (three) years and for a maximum of 7 (seven) years;
+
+d.
+
+after exceeding a period of 18 (eighteen) years for Crimes which are threatened with imprisonment
+for more than 7 (seven) years and for a maximum of 15 (fifteen) years; dan
+
+e.
+
+after exceeding a period of 20 (twenty) years for Crimes which are threatened with imprisonment for
+a maximum of 20 (twenty) years, life imprisonment, or capital punishment.
+
+In the event that the Crime is committed by a Child, the grace period for the lapse of authority to prosecute
+due to expiration as referred to in paragraph (1) shall be reduced to 1/3 (one third).
+
+---
+
+[ORIGINAL Article 136]
+Article 136
+(1)
+
+(2)
+
+The authority to prosecute shall be declared invalid due to expiration if:
+a.
+
+after exceeding a period of 3 (three) years for Crimes which are threatened with imprisonment for a
+maximum of 1 (one) year and/or only a maximum criminal fine of category III;
+
+b.
+
+after exceeding a period of 6 (six) years for Crimes which are threatened with imprisonment for
+more than 1 (one) year and for a maximum of 3 (three) years;
+
+c.
+
+after exceeding a period of 12 (twelve) years for Crimes which are threatened with imprisonment for
+more than 3 (three) years and for a maximum of 7 (seven) years;
+
+d.
+
+after exceeding a period of 18 (eighteen) years for Crimes which are threatened with imprisonment
+for more than 7 (seven) years and for a maximum of 15 (fifteen) years; dan
+
+e.
+
+after exceeding a period of 20 (twenty) years for Crimes which are threatened with imprisonment for
+a maximum of 20 (twenty) years, life imprisonment, or capital punishment.
+
+In the event that the Crime is committed by a Child, the grace period for the lapse of authority to prosecute
+due to expiration as referred to in paragraph (1) shall be reduced to 1/3 (one third).
+
+---
+
+[ORIGINAL Article 132]
+Article 132
+(1)
+
+(2)
+
+The authority to prosecute shall be declared invalid if:
+a.
+
+there is a court decision which has obtained permanent legal force against any Person for the same
+case;
+
+b.
+
+the suspect or defendant passed away;
+
+c.
+
+expiration;
+
+d.
+
+the maximum criminal fine is paid voluntarily for a Crime which is only threatened with a maximum
+criminal fine of category II;
+
+e.
+
+the maximum criminal fine of category IV is paid voluntarily for a Crime which is threatened with
+imprisonment for a maximum of 1 (one) year or a maximum criminal fine of category III;
+
+f.
+
+withdrawal of complaint for Crime warranting complaint;
+
+g.
+
+there has been a settlement outside of the judicial process as regulated by the Law; or
+
+h.
+
+the granting of amnesty or abolition.
+
+Provisions on the lapse of the authority to prosecute for Corporations shall take into account the
+provisions as referred to in Article 121.
+
+[DEFINITION FROM Article 121]
+Article 121
+(1)
+
+Criminal fines for Corporations shall be imposed at a minimum of category IV, unless otherwise stipulated
+by the Law.
+
+(2)
+
+In the event that the Crime committed is threatened with:
+a.
+
+imprisonment under 7 (seven) years, the maximum criminal fine for Corporations is category VI;
+
+b.
+
+imprisonment for a maximum of 7 (seven) years up to a maximum of 15 (fifteen) years, the
+maximum of criminal fine for Corporations is category VII; or
+
+c.
+
+capital punishment, life imprisonment, or imprisonment for a maximum of 20 (twenty) years, the
+maximum criminal fine for Corporations is category VIII.
+
+---
+
+[ORIGINAL Article 133]
+Article 133
+(1)
+
+Criminal fines as referred to in Article 132 paragraph (1) letter d and e, as well as costs incurred if the
+prosecution has been started, shall be paid to the authorized Official within the determined period.
+
+(2)
+
+If there is also a threat of an additional sentence in the form of confiscation of Goods or invoices, the
+confiscated Goods and/or invoices shall be handed over or paid for according to an estimation of the
+Official as referred to in paragraph (1) in the event that said Goods and/or invoices are no longer in the
+possession of the convict.
+
+(3)
+
+If the criminal sentence is aggravated due to recidivism, the aggravation shall remain valid even if the
+authority to prosecute toward the Crime which was committed earlier is invalid based on the provisions as
+referred to in Article 132 paragraph (1) letter d and letter e.
+
+[DEFINITION FROM Article 132]
+Article 132
+(1)
+
+(2)
+
+The authority to prosecute shall be declared invalid if:
+a.
+
+there is a court decision which has obtained permanent legal force against any Person for the same
+case;
+
+b.
+
+the suspect or defendant passed away;
+
+c.
+
+expiration;
+
+d.
+
+the maximum criminal fine is paid voluntarily for a Crime which is only threatened with a maximum
+criminal fine of category II;
+
+e.
+
+the maximum criminal fine of category IV is paid voluntarily for a Crime which is threatened with
+imprisonment for a maximum of 1 (one) year or a maximum criminal fine of category III;
+
+f.
+
+withdrawal of complaint for Crime warranting complaint;
+
+g.
+
+there has been a settlement outside of the judicial process as regulated by the Law; or
+
+h.
+
+the granting of amnesty or abolition.
+
+Provisions on the lapse of the authority to prosecute for Corporations shall take into account the
+provisions as referred to in Article 121.
+
+---
+
+[ORIGINAL Article 138]
+Article 138
+(1)
+
+The act of prosecuting a Crime terminates the expiration date.
+
+(2)
+
+The termination of the expiration date as referred to in paragraph (1) shall be calculated on the following
+day after the suspects or defendants become aware of or is notified about the prosecution against them
+which is carried out in accordance with the provisions of laws and regulations.
+
+
+
+
+(3)
+
+Once the expiration date has been terminated due to an act of prosecution, a new expiration date shall be
+enforced.",0.5,0.0,0.0,0.0,0.3333,1.0,0.6309,0.2,1.0,0.6309
+What is the penalty for insulting the honor of the President in public?,penal_Article_218,penal_Article_218;penal_Article_220;penal_Article_219;penal_Article_226;penal_Article_229,"[ORIGINAL Article 218]
+Article 218
+(1)
+
+Any Person who assault the honor or dignity and prestige of the President and/or Vice President in public,
+shall be sentenced with imprisonment for a maximum of 3 (three) years or a maximum criminal fine of
+category IV.
+
+(2)
+
+It shall not constitute an assault to the honor or dignity and prestige as referred to in paragraph (1), if the
+act is carried out in the public interest or self-defense.
+
+---
+
+[ORIGINAL Article 220]
+Article 220
+(1)
+
+Crime as referred to in Article 218 and Article 219 may only be prosecuted based on a complaint.
+
+(2)
+
+Complaints as referred to in paragraph (1) may be made in writing by the President and/or Vice President.
+
+[DEFINITION FROM Article 218]
+Article 218
+(1)
+
+Any Person who assault the honor or dignity and prestige of the President and/or Vice President in public,
+shall be sentenced with imprisonment for a maximum of 3 (three) years or a maximum criminal fine of
+category IV.
+
+(2)
+
+It shall not constitute an assault to the honor or dignity and prestige as referred to in paragraph (1), if the
+act is carried out in the public interest or self-defense.
+
+[DEFINITION FROM Article 219]
+Article 219
+Any Person who broadcast, display, or attach writings or pictures that are visible to the public, play recordings
+that can be heard by the public or disseminate by means of information technology in which the content is
+assaulting on the honor or dignity and prestige of the President and/or Vice-President with the intention that the
+contents are publicly known or more publicly known, shall be sentenced with imprisonment for a maximum of 4
+(four) years or a maximum criminal fine of category IV.
+
+---
+
+[ORIGINAL Article 219]
+Article 219
+Any Person who broadcast, display, or attach writings or pictures that are visible to the public, play recordings
+that can be heard by the public or disseminate by means of information technology in which the content is
+assaulting on the honor or dignity and prestige of the President and/or Vice-President with the intention that the
+contents are publicly known or more publicly known, shall be sentenced with imprisonment for a maximum of 4
+(four) years or a maximum criminal fine of category IV.
+
+---
+
+[ORIGINAL Article 226]
+Article 226
+Any Person who in Public assaulted the honor or dignity and prestige of the head of a friendly country who is
+carrying out state duties in the Unitary State of the Republic of Indonesia shall be sentenced with imprisonment
+
+
+
+
+for a maximum of 2 (two) years or a maximum criminal fine of category III.
+
+---
+
+[ORIGINAL Article 229]
+Article 229
+(1)
+
+The Crimes as referred to in Article 226 up to Article 228 may only be prosecuted based on a complaint.
+
+(2)
+
+The complaint as referred to in paragraph (1) may be filed in writing by the head of a friendly country and
+a representative of a friendly country.
+
+[DEFINITION FROM Article 226]
+Article 226
+Any Person who in Public assaulted the honor or dignity and prestige of the head of a friendly country who is
+carrying out state duties in the Unitary State of the Republic of Indonesia shall be sentenced with imprisonment
+
+
+
+
+for a maximum of 2 (two) years or a maximum criminal fine of category III.
+
+[DEFINITION FROM Article 228]
+Article 228
+(1)
+
+Any Person who broadcast, show, or attach writings or pictures so as to become visible to the public, play
+recordings so that they are heard by the public, or disseminate by means of information technology
+containing assaults against the honor or dignity and prestige of the head of a friendly country or a
+representatives of a friendly country in the Unitary State of the Republic of Indonesia with the intention that
+the contents of assault against the honor or dignity and prestige are publicly known, shall be sentenced
+with imprisonment for a maximum of 3 (three) years or a maximum criminal fine of category IV.
+
+(2)
+
+If Any Person as referred to in paragraph (1) commit the said act while carrying out their professions and
+at that time it has not passed 2 (two) years since a criminal decision that has obtained permanent legal
+force for committing the same Crime, they may be sentenced with an additional sentence in the form of
+revocation of rights as referred to in Article 86 letter f.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+Why must a judge prioritize justice over legal certainty if they conflict?,penal_Article_53,penal_Article_53;penal_Article_71;penal_Article_104;penal_Article_70;penal_Article_75,"[ORIGINAL Article 53]
+Article 53
+(1)
+
+In adjudicating a criminal case, a judge is obliged to uphold the law and justice.
+
+
+
+
+(2)
+
+If in upholding law and justice as referred to in paragraph (1) there is a contradiction between legal
+certainty and justice, a judge is obliged to prioritize justice.
+
+---
+
+[ORIGINAL Article 71]
+Article 71
+(1)
+
+If a person commits a Crime which is only threatened with imprisonment for under 5 (five) years, while the
+judge is of the opinion that it is not necessary to impose an imprisonment after considering the purpose of
+sentencing and guidelines for sentencing as referred to in Article 51 to Article 54, the said person may be
+subject to a criminal fine.
+
+(2)
+
+The criminal fine as referred to in paragraph (1) may only be imposed if:
+a.
+
+there are no Victims;
+
+b.
+
+Victims make no problem out of it; or
+
+c.
+
+It is not a recidivism.
+
+(3)
+
+The criminal fine which may be imposed based on the provision as referred to in paragraph (1) is a
+maximum criminal fine of category V and a minimum criminal fine of category III.
+
+(4)
+
+The provision as referred to in paragraph (2) letter c does not apply to persons who have been subject to
+imprisonment for a Crime committed before the age of 18 (eighteen) years.
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.
+
+---
+
+[ORIGINAL Article 104]
+Article 104
+In imposing a decision in the form of measures, judges are obliged to pay attention to the provisions as referred
+to in Article 51 to Article 54.
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.
+
+---
+
+[ORIGINAL Article 70]
+Article 70
+(1)
+
+By still considering the provisions as referred to in Article 51 to Article 54, imprisonment should not be
+
+
+
+
+imposed if any of the following conditions are discovered:
+
+(2)
+
+a.
+
+the defendant is a Child;
+
+b.
+
+the defendant is over 75 (seventy-five) years old;
+
+c.
+
+the defendant has only committed a Crime for the first time;
+
+d.
+
+the loss and suffering of the Victim are not severe;
+
+e.
+
+the defendant has paid compensation to the Victim;
+
+f.
+
+the defendant is not aware that the Crime committed will result in a large loss;
+
+g.
+
+the Crime occurs due to very strong incitement from another person;
+
+h.
+
+the Victim of a Crime pushes or encourages the occurrence of said Crime;
+
+i.
+
+the said Crime is the result of a situation that is impossible to repeat;
+
+j.
+
+the personality and behavior of the defendant ensure that he/she will not commit another Crime;
+
+k.
+
+the imprisonment will cause great suffering to the defendant or his/her family;
+
+l.
+
+guidance outside of correctional facilities is expected to be successful for the defendant;
+
+m.
+
+the imposition of a lighter sentence will not reduce the seriousness of the Crimes committed by the
+defendant;
+
+n.
+
+Crimes occur within the family; and/or
+
+o.
+
+Crimes occur due to negligence.
+
+The provisions as referred to in paragraph (1) do not apply to:
+a.
+
+Crimes which are threatened with imprisonment for 5 (five) years or more;
+
+b.
+
+Crimes which are threatened with special minimum sentence;
+
+c.
+
+certain Crimes which are very dangerous or detrimental to the community; or
+
+d.
+
+Crimes which are detrimental to state finances or economy.
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.
+
+---
+
+[ORIGINAL Article 75]
+Article 75
+The defendant who commits a Crime which is threatened with imprisonment for a maximum of 5 (five) years may
+
+
+
+
+be subject to criminal supervision, while still observing the provisions as referred to in Article 51 to Article 54 and
+
+[DEFINITION FROM Article 51]
+Article 51
+The purpose of sentencing is to:
+a.
+
+prevent Crime being committed by enforcing legal norms for the sake of the protection and sanctuary of
+the community;
+
+b.
+
+accustom the convicts by holding guidance and mentoring so that they become good and useful people;
+
+c.
+
+resolve conflicts arising from Crimes, restore balance, as well as bring a sense of security and peace
+within the community; and
+
+d.
+
+cultivate a sense of remorse and to absolve the convicted person of guilt.
+
+[DEFINITION FROM Article 54]
+Article 54
+(1)
+
+(2)
+
+In sentencing, the following matters must be taken into consideration:
+a.
+
+the form of fault of criminal offenders;
+
+b.
+
+motive and purpose of committing the Crime;
+
+c.
+
+inner attitude of criminal offenders;
+
+d.
+
+the Crime is committed either planned or unplanned;
+
+e.
+
+methods of committing the Crime;
+
+f.
+
+attitude and actions of the offender after committing the Crime;
+
+g.
+
+curriculum vitae, social condition, and economic condition of criminal offenders;
+
+h.
+
+effect of criminal sentence upon the future of criminal offenders;
+
+i.
+
+effect of the Crime on the Victim or the family of the Victim;
+
+j.
+
+forgiveness from the Victim and/or the family of the Victim; and/or
+
+k.
+
+the values of law and justice that live in the community.
+
+The lightness of the act, the personal condition of the offender, or the circumstances at the time the Crime
+was committed as well as its aftermath may be used as a basis for consideration not to impose a criminal
+sentence or not to impose a measure by taking the aspects of justice and humanity into account.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+What happens to a child under 12 who is suspected of a crime?,penal_Article_41,penal_Article_41;penal_Article_419;penal_Article_453;penal_Article_40;penal_Article_425,"[ORIGINAL Article 41]
+Article 41
+In the event that children who are not yet 12 (twelve) years old committed or are suspected of committing a
+Crime, investigators, community advisors, and professional social workers shall take the decision to:
+a.
+
+hand them back to the Parents/godparents; or
+
+b.
+
+enroll them in the education, coaching, and mentoring programs in government agencies or social welfare
+organizing institutions within agencies which handle social welfare, both at the central and regional levels,
+for a maximum of 6 (six) Months.
+
+---
+
+[ORIGINAL Article 419]
+Article 419
+(1)
+
+Any Person who connects or facilitates another person to commit obscene acts or have sexual intercourse
+with a person who is known or reasonably suspected to be a Child, shall be sentenced with imprisonment
+for a maximum of 7 (seven) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against biological children, step children, adopted
+children, or children under their supervision who are entrusted to them to be nurtured, shall be sentenced
+with imprisonment for a maximum of 9 (nine) years.
+
+---
+
+[ORIGINAL Article 453]
+Article 453
+(1)
+
+Any person who hides a child who has been withdrawn or withdraws from power themselves in
+accordance with the provisions of laws and regulations determined for them or from the supervision of a
+person authorized for that, or withdraws them from the investigation of an authorized Official, shall be
+sentenced with imprisonment for a maximum of 4 (four) years or a maximum criminal fine of category III.
+
+(2)
+
+If the act as referred to in paragraph (1) is committed against a child under the age of 12 (twelve) years,
+shall be sentenced with imprisonment for a maximum of 7 (seven) years.
+
+---
+
+[ORIGINAL Article 40]
+Article 40
+Criminal liability cannot be imposed on children who are not yet 12 (twelve) years old at the time of committing a
+crime.
+
+---
+
+[ORIGINAL Article 425]
+Article 425
+(1)
+
+Any Person who gives or transfers to another person a child who is under their legal control and is not yet
+12 (twelve) years old, even though it is known that the child in question will be used to commit acts of
+begging or to perform work which are dangerous or which may endanger their health, shall be sentenced
+with imprisonment for a maximum of 4 (four) years or a maximum criminal fine of category IV.
+
+(2)
+
+Any Person who accepts a child to be utilized as referred to in paragraph (1) shall be sentenced the same
+criminal sentence.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+How does pre-trial detention affect the total prison term?,penal_Article_61,penal_Article_61;penal_Article_63;penal_Article_72;penal_Article_73;penal_Article_469,"[ORIGINAL Article 61]
+Article 61
+(1)
+
+Imprisonment for a certain period of time or any imposed criminal fines shall be deducted in whole or in
+part from the period of arrest and/or detention that the defendant has served before the court decision has
+
+
+
+
+obtained permanent legal force.
+(2)
+
+The deduction of criminal fines as referred to in paragraph (1) shall be equivalent to the calculation of
+imprisonment in lieu of criminal fines.
+
+---
+
+[ORIGINAL Article 63]
+Article 63
+If convicts escape, the period during which the convict escapes is not calculated as the time spent serving their
+prison term.
+
+---
+
+[ORIGINAL Article 72]
+Article 72
+(1)
+
+Convicts who have served at least 2/3 (two thirds) of the imprisonment imposed on them provided that the
+said 2/3 (two-thirds) are not less than 9 (nine) Months may be granted a parole.
+
+(2)
+
+Convicts who serve several consecutive imprisonments shall be considered as having a total of 1 (one)
+sentence.
+
+(3)
+
+In granting the parole as referred to in paragraph (1), a probation and the requirements which must be
+fulfilled during the probation shall be determined.
+
+(4)
+
+The probation as referred to in paragraph (3) shall be equal to the remaining period of imprisonment which
+has not yet been served, plus 1 (one) year.
+
+(5)
+
+Convicts as referred to in paragraph (1) who are detained as suspects or defendants in other cases shall
+not have their detention time as a probation.
+
+---
+
+[ORIGINAL Article 73]
+Article 73
+(1)
+
+The requirements which must be fulfilled during the probation as referred to in Article 72 paragraph (3)
+comprises:
+a.
+
+general requirements in the form of convicts will not commit a Crime; and
+
+b.
+
+special requirements in the form of convicts must commit or abstain from committing certain acts,
+without prejudice to the freedom of religion, of belief and to engage in politics, unless determined
+otherwise by the judge.
+
+(2)
+
+The special requirements as referred to in paragraph (1) letter b may be changed, deleted, or have new
+requirements established for the sole purpose of the guidance of convicts.
+
+(3)
+
+Convicts who violate the requirements as referred to in paragraph (1) may have their parole revoked.
+
+(4)
+
+The parole as referred to in paragraph (3) may not be revoked after exceeding 3 (three) Months from the
+expiry of the probation, unless within 3 (three) Months from the expiry of the probation, the convicts are
+prosecuted for committing a Crime carried out during the probation.
+
+(5)
+
+In the event that the convicts as referred to in paragraph (4) are sentenced with imprisonment for a certain
+period or to a minimum criminal fine of category III, the relevant parole shall be revoked.
+
+[DEFINITION FROM Article 72]
+Article 72
+(1)
+
+Convicts who have served at least 2/3 (two thirds) of the imprisonment imposed on them provided that the
+said 2/3 (two-thirds) are not less than 9 (nine) Months may be granted a parole.
+
+(2)
+
+Convicts who serve several consecutive imprisonments shall be considered as having a total of 1 (one)
+sentence.
+
+(3)
+
+In granting the parole as referred to in paragraph (1), a probation and the requirements which must be
+fulfilled during the probation shall be determined.
+
+(4)
+
+The probation as referred to in paragraph (3) shall be equal to the remaining period of imprisonment which
+has not yet been served, plus 1 (one) year.
+
+(5)
+
+Convicts as referred to in paragraph (1) who are detained as suspects or defendants in other cases shall
+not have their detention time as a probation.
+
+---
+
+[ORIGINAL Article 469]
+Article 469
+(1)
+
+Any Person who commits severe persecution with prior planning shall be sentenced with imprisonment for
+a maximum of 12 (twelve) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) results in the death of a person, shall be sentenced with
+imprisonment for a maximum of 15 (fifteen) years.",1.0,1.0,1.0,1.0,0.3333,1.0,1.0,0.2,1.0,1.0
+What is the maximum sentence for facilitating sexual acts with a child?,penal_Article_419;penal_Article_422,penal_Article_419;penal_Article_421;penal_Article_473;penal_Article_415;penal_Article_423,"[ORIGINAL Article 419]
+Article 419
+(1)
+
+Any Person who connects or facilitates another person to commit obscene acts or have sexual intercourse
+with a person who is known or reasonably suspected to be a Child, shall be sentenced with imprisonment
+for a maximum of 7 (seven) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against biological children, step children, adopted
+children, or children under their supervision who are entrusted to them to be nurtured, shall be sentenced
+with imprisonment for a maximum of 9 (nine) years.
+
+---
+
+[ORIGINAL Article 421]
+Article 421
+If the Crime as referred to in Article 419 or Article 420 is committed as a habit or to attract profit as a livelihood,
+the criminal sentence may be increased by 1/3 (one third).
+
+[DEFINITION FROM Article 419]
+Article 419
+(1)
+
+Any Person who connects or facilitates another person to commit obscene acts or have sexual intercourse
+with a person who is known or reasonably suspected to be a Child, shall be sentenced with imprisonment
+for a maximum of 7 (seven) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed against biological children, step children, adopted
+children, or children under their supervision who are entrusted to them to be nurtured, shall be sentenced
+with imprisonment for a maximum of 9 (nine) years.
+
+[DEFINITION FROM Article 420]
+Article 420
+Any Person who connects or facilitates another person to commit obscene acts, shall be sentenced with
+
+
+
+
+imprisonment for a maximum of 2 (two) years.
+
+---
+
+[ORIGINAL Article 473]
+Article 473
+(1)
+
+Any Person who, through Violence or Threats of Violence, forces someone to have sexual intercourse with
+them, shall be sentenced due to committing rape, with imprisonment for a maximum of 12 (twelve) years.
+
+(2)
+
+Including the Crime of Rape and being sentenced as referred to in paragraph (1) consists of the following
+acts:
+
+(3)
+
+a.
+
+sexual intercourse with a person with their consent, because the person believes that the person is
+a legitimate husband/wife;
+
+b.
+
+sexual intercourse with a Child;
+
+c.
+
+sexual intercourse with a person, even though it is known that the other person is in a state of
+unconsciousness or helpless; or
+
+d.
+
+sexual intercourse with persons with mental disabilities and/or intellectual disabilities by giving or
+promising money or goods, abusing the authority arising from relationship of circumstances, or by
+misleading them into engaging in or allowing sexual intercourse with them, even though the
+disability is known.
+
+Shall also be deemed to have committed the Crime of Rape, if under the circumstances as referred to in
+paragraph (1) and paragraph (2), by way of:
+a.
+
+inserting the genital into the anus or mouth of another person;
+
+b.
+
+inserting another person's genital into their own anus or mouth; or
+
+c.
+
+inserting non-genital parts of their body or objects into the genital or anus of other.
+
+(4)
+
+In the event that the Crimes as referred to in paragraph (1), paragraph (2) letter c, paragraph (2) letter d,
+and paragraph (3) are committed against Children, shall be sentenced with imprisonment for a minimum
+of 3 (three) years and maximum of 15 (fifteen) years and a minimum criminal fine of category IV and a
+maximum of category VII.
+
+(5)
+
+The provisions as referred to in paragraph (4) shall also apply to Any Person who forces a Child to commit
+a Crime as referred to in paragraph (1), paragraph (2) letter c, paragraph (2) letter d, and paragraph (3)
+with other persons.
+
+(6)
+
+In the event that the Crime as referred to in paragraph (1) is committed in marriage, no prosecution shall
+be conducted except upon the complaint from the Victim.
+
+(7)
+
+If any of the Crime as referred to in paragraph (1) to paragraph (3) results in Serious Injury, shall be
+sentenced with imprisonment for a maximum of 15 (fifteen) years.
+
+(8)
+
+If any of the Crime as referred to in paragraph (1) to paragraph (3) results in the death of a person, the
+criminal sentence may be increased by 1/3 (one-third) of the criminal threat as referred to in paragraph
+(1).
+
+(9)
+
+If the Victim as referred to in paragraph (4) is a biological child, stepchild, or child under their godparent,
+the criminal sentence may be increased by 1/3 (one third) of the criminal threat as referred to in paragraph
+(4).
+
+(10)
+
+In the event that the Crime as referred to in paragraph (1) to paragraph (9) is committed jointly and in
+alliance, or is committed against a person in a state of danger, emergency, conflict situation, disaster, or
+war, criminal the sentence may be increased by 1/3 (one third).
+
+(11)
+
+The Crime as referred to in paragraph (1) to paragraph (10) is a crime of sexual violence.
+
+---
+
+[ORIGINAL Article 415]
+Article 415
+Shall be sentenced with imprisonment for a maximum of 9 (nine) years, Any Person who:
+
+
+
+
+a.
+
+engages in obscene acts with a person who is known to be unconscious or incapacitated; or
+
+b.
+
+commits obscene acts with someone who is known or reasonably suspected to be a Child.
+
+---
+
+[ORIGINAL Article 423]
+Article 423
+The Crimes as referred to in Article 414 to Article 422 is a crime of sexual violence.
+
+[DEFINITION FROM Article 414]
+Article 414
+(1)
+
+(2)
+
+Any Person who commits obscene acts toward other persons of the same or different sex:
+a.
+
+in public, shall be sentenced with imprisonment for a maximum of 1 (one) year and 6 (six) Months
+or a maximum criminal fine of category III;
+
+b.
+
+by force with Violence or Threats of Violence, shall be sentenced with imprisonment for a maximum
+of 9 (nine) years; or
+
+c.
+
+which are published as pornographic content, shall be sentenced with imprisonment for a maximum
+of 9 (nine) years.
+
+Any Person who with Violence or Threats of Violence forces another person to commit obscene acts
+against them, shall be sentenced with imprisonment for a maximum of 9 (nine) years.
+
+[DEFINITION FROM Article 422]
+Article 422
+(1)
+
+Any Person who moves, carries, places, or surrenders a Child to another person in order to commit
+fornication, prostitution, or other acts of indecency, shall be sentenced with imprisonment for a maximum
+of 9 (nine) years.
+
+(2)
+
+If the Crime as referred to in paragraph (1) is committed by promising the Child to obtain a job or other
+promises, shall be sentenced with imprisonment for a maximum of 10 (ten) years.",1.0,1.0,0.5,1.0,0.3333,0.5,0.6131,0.2,0.5,0.6131

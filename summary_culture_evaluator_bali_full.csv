@@ -1,0 +1,2 @@
+precision@1,precision@3,precision@5,recall@1,recall@3,recall@5,ndcg@1,ndcg@3,ndcg@5,mrr
+0.84,0.3733,0.248,0.7533,0.8933,0.9533,0.84,0.8775,0.9091,0.91
